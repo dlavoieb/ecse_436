@@ -1,0 +1,324 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\David Lavoie-Boutin\OneDrive - McGill University\Classes\ECSE 436\Final Project\VideoLab
+Ebuffer_fft_output
+Z1 w1482028292
+Z2 DPx4 work 21 graph_data_parameters 0 22 Xc:lBi7Jo>PGn5HN[h;L[0
+Z3 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\David Lavoie-Boutin\OneDrive - McGill University\Classes\ECSE 436\Final Project\VideoLab
+Z7 8buffer_fft_output.vhd
+Z8 Fbuffer_fft_output.vhd
+l0
+L7
+VMn7?:10zHb4JTAm_BBE[U3
+!s100 Y>g5W@3Fz8o^?bR9_Rz@63
+Z9 OV;C;10.1d;51
+32
+!i10b 1
+Z10 !s108 1482099217.061000
+Z11 !s90 -reportprogress|300|buffer_fft_output.vhd|
+Z12 !s107 buffer_fft_output.vhd|
+o-O0
+Z13 tExplicit 1
+Aarch
+R2
+R3
+R4
+R5
+Z14 DEx4 work 17 buffer_fft_output 0 22 Mn7?:10zHb4JTAm_BBE[U3
+l19
+L17
+Z15 Vg_>U]j2bQea<UW7DS4BGf1
+Z16 !s100 j19iz3n;M60KI7H?n8BW`1
+R9
+32
+!i10b 1
+R10
+R11
+R12
+o-O0
+R13
+Ebutterfly
+Z17 w1481824751
+Z18 DPx4 ieee 16 std_logic_signed 0 22 E>OLoMaBGQ?hbGgOoNXM^1
+Z19 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z20 DPx4 work 7 fft_pkg 0 22 Kfnzmil:CR1Ig`kB^H=Y[2
+R4
+R5
+R6
+Z21 8fft/butterfly.vhd
+Z22 Ffft/butterfly.vhd
+l0
+L6
+Vc2[zQ9[AG?o@g][HkMY6V0
+R9
+32
+Z23 !s108 1481825461.843000
+Z24 !s90 -reportprogress|300|fft/butterfly.vhd|
+Z25 !s107 fft/butterfly.vhd|
+o-O0
+R13
+!s100 6;V25TOQIYcoJ]Kzz<^`n3
+!i10b 1
+Abehavioral
+R18
+R19
+R20
+R4
+R5
+DEx4 work 9 butterfly 0 22 c2[zQ9[AG?o@g][HkMY6V0
+l16
+L14
+VzfGfMz`H_45XE@;gOg67S1
+R9
+32
+R23
+R24
+R25
+o-O0
+R13
+!s100 iakCRKM]ToGjl^;XAJS2o3
+!i10b 1
+Efft4
+w1481825708
+R18
+R19
+R20
+R4
+R5
+R6
+8fft/fft4.vhd
+Ffft/fft4.vhd
+l0
+L6
+V3>?kZQIhlf<e<eoIc<gjB1
+R9
+32
+o-O0
+R13
+!s100 519JOF`F]ilb@N>lz48J<3
+!i10b 1
+!s108 1481825717.610000
+!s90 -reportprogress|300|fft/fft4.vhd|
+!s107 fft/fft4.vhd|
+Efft_controller_block
+Z26 w1482080566
+R3
+Z27 DPx4 work 21 graph_data_parameters 0 22 nf;U:RBEaRN55koI@jEjz1
+R4
+R5
+R6
+Z28 8fft_controller_block.vhd
+Z29 Ffft_controller_block.vhd
+l0
+L6
+Vh:FHnSn^YEl`fhoKFUWN@0
+R9
+32
+Z30 !s108 1482082116.205000
+Z31 !s90 -reportprogress|300|fft_controller_block.vhd|
+Z32 !s107 fft_controller_block.vhd|
+o-O0
+R13
+!s100 XOJ?aD2lg[ZVaPR[WBWM@3
+!i10b 1
+Aarch
+R3
+R27
+R4
+R5
+DEx4 work 20 fft_controller_block 0 22 h:FHnSn^YEl`fhoKFUWN@0
+l17
+L16
+VE_oW2BJZ9:6PTX7@_KR^=1
+R9
+32
+R30
+R31
+R32
+o-O0
+R13
+!s100 2?=@ET?O;a:T[nRlHCF^B3
+!i10b 1
+Pfft_pkg
+R18
+R19
+R4
+R5
+Z33 w1481825456
+R6
+Z34 8fft/fft_pkg.vhd
+Z35 Ffft/fft_pkg.vhd
+l0
+L6
+VKfnzmil:CR1Ig`kB^H=Y[2
+R9
+32
+b1
+Z36 !s108 1481825460.178000
+Z37 !s90 -reportprogress|300|fft/fft_pkg.vhd|
+Z38 !s107 fft/fft_pkg.vhd|
+o-O0
+R13
+!s100 _:S_TYk<:>K2O]8[f;AKz3
+!i10b 1
+Bbody
+R20
+R18
+R19
+R4
+R5
+l0
+L20
+V;OchP1z?m<_:W`o7jbJUC3
+R9
+32
+R36
+R37
+R38
+o-O0
+R13
+nbody
+!s100 HM7B5NfD@YQTcHefeJh@`2
+!i10b 1
+Pgraph_data_parameters
+R3
+R4
+R5
+Z39 w1482099212
+R6
+Z40 8graph_display.vhd
+Z41 Fgraph_display.vhd
+l0
+L5
+VXc:lBi7Jo>PGn5HN[h;L[0
+R9
+32
+Z42 !s108 1482099216.926000
+Z43 !s90 -reportprogress|300|graph_display.vhd|
+Z44 !s107 graph_display.vhd|
+o-O0
+R13
+!s100 3iP>9Ul5D_3EK7n>o;KIF0
+!i10b 1
+Egraph_display
+R39
+R2
+R3
+R4
+R5
+R6
+R40
+R41
+l0
+L18
+V^zc0`R:i>jV9;YO?Fk7nU0
+R9
+32
+R42
+R43
+R44
+o-O0
+R13
+!s100 FM:PZYWG179B_]WE]0kGV3
+!i10b 1
+Aarch
+R2
+R3
+R4
+R5
+DEx4 work 13 graph_display 0 22 ^zc0`R:i>jV9;YO?Fk7nU0
+l33
+L31
+VkXOT@Hm:AYcEKlJV@:Qcl1
+!s100 5b=UZN@LY0?gl4ZkOD0_P3
+R9
+32
+R42
+R43
+R44
+o-O0
+R13
+!i10b 1
+Psqrt_p
+R3
+R4
+R5
+Z45 w1481994474
+R6
+Z46 8sqrt.vhd
+Z47 Fsqrt.vhd
+l0
+L5
+VP;0Sb=4AZB=mJ6W[SFJc12
+R9
+32
+b1
+Z48 !s108 1481994546.454000
+Z49 !s90 -reportprogress|300|sqrt.vhd|
+Z50 !s107 sqrt.vhd|
+o-O0
+R13
+!s100 Zi`g44V9@57d@IDz5<?;91
+!i10b 1
+Bbody
+DPx4 work 6 sqrt_p 0 22 P;0Sb=4AZB=mJ6W[SFJc12
+R3
+R4
+R5
+l0
+L9
+V<_^Lo;c^67N7KW=k0A_bz3
+R9
+32
+R48
+R49
+R50
+o-O0
+R13
+nbody
+!s100 i@KVK`988H^5j8dJ2cOkR3
+!i10b 1
+Eswitch_to_array
+Z51 w1481989950
+Z52 DPx4 work 21 graph_data_parameters 0 22 2W[Z51NjIi@i=_SdYNcSG3
+R3
+R4
+R5
+R6
+Z53 8switch_to_array.vhd
+Z54 Fswitch_to_array.vhd
+l0
+L7
+V4QCX18DQ2o]08i7Kig8am2
+R9
+32
+Z55 !s108 1482097362.043000
+Z56 !s90 -reportprogress|300|switch_to_array.vhd|
+Z57 !s107 switch_to_array.vhd|
+o-O0
+R13
+!s100 GV[S5?aXbaiW=EfM_^22O3
+!i10b 1
+Aarch
+R52
+R3
+R4
+R5
+DEx4 work 15 switch_to_array 0 22 4QCX18DQ2o]08i7Kig8am2
+l16
+L14
+VC:@laD^?gk^Z=[Ji=94z02
+R9
+32
+R55
+R56
+R57
+o-O0
+R13
+!s100 eISWemH2H_z:6`e3X9Z6W1
+!i10b 1

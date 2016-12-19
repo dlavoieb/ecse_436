@@ -1,0 +1,293 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\David Lavoie-Boutin\OneDrive - McGill University\Classes\ECSE 436\Final Project\hdlsrc_16\hdlcoderfftdit
+Ebutterfly
+Z1 w1481731845
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\David Lavoie-Boutin\OneDrive - McGill University\Classes\ECSE 436\Final Project\hdlsrc_16\hdlcoderfftdit
+Z6 8Butterfly.vhd
+Z7 FButterfly.vhd
+l0
+L24
+VeiX?`O3mQbiV4OK2P=GE<0
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1481827056.161000
+Z10 !s90 -reportprogress|300|Butterfly.vhd|
+Z11 !s107 Butterfly.vhd|
+o-O0
+Z12 tExplicit 1
+!s100 lHL0UVnle<BC_2d>NmNPM2
+!i10b 1
+Artl
+R2
+R3
+R4
+Z13 DEx4 work 9 butterfly 0 22 eiX?`O3mQbiV4OK2P=GE<0
+l113
+L45
+VnYjK1ME`QV_=<10K=dXJE3
+R8
+32
+R9
+R10
+R11
+o-O0
+R12
+!s100 DBi24@L4U`IBHbUSO@]]50
+!i10b 1
+Edualportram
+R1
+R2
+R3
+R4
+R5
+Z14 8DualPortRam.vhd
+Z15 FDualPortRam.vhd
+l0
+L24
+VHdjXFRio1zSo^e[?:HHRc1
+R8
+32
+Z16 !s108 1481827056.474000
+Z17 !s90 -reportprogress|300|DualPortRam.vhd|
+Z18 !s107 DualPortRam.vhd|
+o-O0
+R12
+!s100 0Xnbn<`knEUeRzOAUd?hQ3
+!i10b 1
+Artl
+Z19 DEx4 work 12 dualportram0 0 22 NJzP:74A5emQAaAYkFFP02
+R2
+R3
+R4
+Z20 DEx4 work 11 dualportram 0 22 HdjXFRio1zSo^e[?:HHRc1
+l69
+L41
+VOPJez<=DHCKXjLYa70CNl0
+R8
+32
+R16
+R17
+R18
+o-O0
+R12
+!s100 cdVN0z]BBNJaOT6lePA[j1
+!i10b 1
+Edualportram0
+R1
+R2
+R3
+R4
+R5
+Z21 8DualPortRam0.vhd
+Z22 FDualPortRam0.vhd
+l0
+L22
+VNJzP:74A5emQAaAYkFFP02
+R8
+32
+Z23 !s108 1481827056.369000
+Z24 !s90 -reportprogress|300|DualPortRam0.vhd|
+Z25 !s107 DualPortRam0.vhd|
+o-O0
+R12
+!s100 I8E<VKz2C_]mdaf;goTO=3
+!i10b 1
+Artl
+R2
+R3
+R4
+R19
+l49
+L38
+VRXcjWYR]?CJUkGVhB7@]Y0
+R8
+32
+R23
+R24
+R25
+o-O0
+R12
+!s100 4Nlal_oOoY_8:e94MgP`b2
+!i10b 1
+Efftlogic
+R1
+Z26 DPx4 work 13 hdlfftdut_pkg 0 22 @9fkMUcg7J@laH<IK[4690
+R2
+R3
+R4
+R5
+Z27 8FFTLogic.vhd
+Z28 FFFTLogic.vhd
+l0
+L25
+V3bILWOLIjK_fh69N9A^EV1
+R8
+32
+Z29 !s108 1481827056.032000
+Z30 !s90 -reportprogress|300|FFTLogic.vhd|
+Z31 !s107 FFTLogic.vhd|
+o-O0
+R12
+!s100 IEcMK[BcG0bMo:<YZ^XB21
+!i10b 1
+Artl
+R26
+R2
+R3
+R4
+Z32 DEx4 work 8 fftlogic 0 22 3bILWOLIjK_fh69N9A^EV1
+l273
+L78
+VZNoA^ee`<nbhNfEF]KGn>1
+R8
+32
+R29
+R30
+R31
+o-O0
+R12
+!s100 mM:cRkoAnhL1LS;@@bmO;2
+!i10b 1
+Ehdl_fft
+R1
+R2
+R3
+R4
+R5
+Z33 8HDL_FFT.vhd
+Z34 FHDL_FFT.vhd
+l0
+L22
+VRiE=P_YKWa^VfV<@jkhSV0
+R8
+32
+Z35 !s108 1481827056.579000
+Z36 !s90 -reportprogress|300|HDL_FFT.vhd|
+Z37 !s107 HDL_FFT.vhd|
+o-O0
+R12
+!s100 _BI8G6O?6UnDQQekFfR4>2
+!i10b 1
+Artl
+R26
+R32
+R20
+R13
+Z38 DEx4 work 12 twiddletable 0 22 ;IFNIo7ClheZA44N6DGEQ1
+R2
+R3
+R4
+Z39 DEx4 work 7 hdl_fft 0 22 RiE=P_YKWa^VfV<@jkhSV0
+l195
+L37
+VdfjMB:[U9ecA?0^ISg`F:0
+R8
+32
+R35
+R36
+R37
+o-O0
+R12
+!s100 L@f>I6BS6J[:Y4KVkBL4E1
+!i10b 1
+Ehdlfftdut
+R1
+R2
+R3
+R4
+R5
+Z40 8hdlfftdut.vhd
+Z41 Fhdlfftdut.vhd
+l0
+L44
+Vf>CXG3YYnMa6jQc2^8oXG2
+!s100 jIm7RSIh5ggVB[0D0o>`[0
+R8
+32
+!i10b 1
+Z42 !s108 1481827056.685000
+Z43 !s90 -reportprogress|300|hdlfftdut.vhd|
+Z44 !s107 hdlfftdut.vhd|
+o-O0
+R12
+Artl
+R39
+R2
+R3
+R4
+DEx4 work 9 hdlfftdut 0 22 f>CXG3YYnMa6jQc2^8oXG2
+l86
+L60
+VFY0?XV_F;O94k[kAXPU0b0
+!s100 m[=9khGY8`XBL0RKZX2Im3
+R8
+32
+!i10b 1
+R42
+R43
+R44
+o-O0
+R12
+Phdlfftdut_pkg
+R2
+R3
+R4
+R1
+R5
+8hdlfftdut_pkg.vhd
+Fhdlfftdut_pkg.vhd
+l0
+L15
+V@9fkMUcg7J@laH<IK[4690
+R8
+32
+o-O0
+R12
+!s100 =PoW;`V96;3:2KCm2nQ@L1
+!i10b 1
+!s108 1481827055.940000
+!s90 -reportprogress|300|hdlfftdut_pkg.vhd|
+!s107 hdlfftdut_pkg.vhd|
+Etwiddletable
+R1
+R2
+R3
+R4
+R5
+Z45 8TwiddleTable.vhd
+Z46 FTwiddleTable.vhd
+l0
+L24
+V;IFNIo7ClheZA44N6DGEQ1
+R8
+32
+Z47 !s108 1481827056.268000
+Z48 !s90 -reportprogress|300|TwiddleTable.vhd|
+Z49 !s107 TwiddleTable.vhd|
+o-O0
+R12
+!s100 83CYmLBhkB71^S[Q[Qz`43
+!i10b 1
+Artl
+R2
+R3
+R4
+R38
+l44
+L35
+V6`gi8GILMfJdBgGZ=;^o?3
+R8
+32
+R47
+R48
+R49
+o-O0
+R12
+!s100 ko_I4UgG5mELJPhkH?>PV0
+!i10b 1

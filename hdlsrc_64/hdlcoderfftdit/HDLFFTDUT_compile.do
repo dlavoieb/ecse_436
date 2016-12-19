@@ -1,0 +1,9 @@
+vlib work
+vcom  HDLFFTDUT_pkg.vhd
+vcom  DualPortRam0.vhd
+vcom  FFTLogic.vhd
+vcom  TwiddleTable.vhd
+vcom  Butterfly.vhd
+vcom  DualPortRam.vhd
+vcom  HDL_FFT.vhd
+vcom  HDLFFTDUT.vhd

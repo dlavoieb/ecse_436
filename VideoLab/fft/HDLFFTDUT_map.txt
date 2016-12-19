@@ -1,0 +1,8 @@
+ --> HDLFFTDUT_pkg
+hdlcoderfftdit/HDLFFTDUT/HDL FFT --> DualPortRam0
+hdlcoderfftdit/HDLFFTDUT/HDL FFT --> FFTLogic
+hdlcoderfftdit/HDLFFTDUT/HDL FFT --> TwiddleTable
+hdlcoderfftdit/HDLFFTDUT/HDL FFT --> Butterfly
+hdlcoderfftdit/HDLFFTDUT/HDL FFT --> DualPortRam
+hdlcoderfftdit/HDLFFTDUT/HDL FFT --> HDL_FFT
+hdlcoderfftdit/HDLFFTDUT --> HDLFFTDUT

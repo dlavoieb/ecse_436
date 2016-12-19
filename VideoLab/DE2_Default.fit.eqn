@@ -1,0 +1,3600 @@
+-- Copyright (C) 1991-2005 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+--D1_oCoord_Y[1] is VGA_Controller:u1|oCoord_Y[1] at LCFF_X7_Y11_N11
+D1_oCoord_Y[1] = DFFEAS(D1L120, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_Y[2] is VGA_Controller:u1|oCoord_Y[2] at LCFF_X7_Y11_N13
+D1_oCoord_Y[2] = DFFEAS(D1L123, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_Y[3] is VGA_Controller:u1|oCoord_Y[3] at LCFF_X7_Y11_N15
+D1_oCoord_Y[3] = DFFEAS(D1L126, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_Y[4] is VGA_Controller:u1|oCoord_Y[4] at LCFF_X7_Y11_N17
+D1_oCoord_Y[4] = DFFEAS(D1L129, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_Y[5] is VGA_Controller:u1|oCoord_Y[5] at LCFF_X7_Y11_N19
+D1_oCoord_Y[5] = DFFEAS(D1L132, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_Y[6] is VGA_Controller:u1|oCoord_Y[6] at LCFF_X7_Y11_N21
+D1_oCoord_Y[6] = DFFEAS(D1L135, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_Y[7] is VGA_Controller:u1|oCoord_Y[7] at LCFF_X7_Y11_N23
+D1_oCoord_Y[7] = DFFEAS(D1L138, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_Y[8] is VGA_Controller:u1|oCoord_Y[8] at LCFF_X7_Y11_N25
+D1_oCoord_Y[8] = DFFEAS(D1L141, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_Y[9] is VGA_Controller:u1|oCoord_Y[9] at LCFF_X7_Y11_N27
+D1_oCoord_Y[9] = DFFEAS(D1L144, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_X[1] is VGA_Controller:u1|oCoord_X[1] at LCFF_X5_Y11_N23
+D1_oCoord_X[1] = DFFEAS(D1L93, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  ,  ,  );
+
+
+--D1_oCoord_X[2] is VGA_Controller:u1|oCoord_X[2] at LCFF_X6_Y11_N7
+D1_oCoord_X[2] = DFFEAS(D1L95, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_X[3] is VGA_Controller:u1|oCoord_X[3] at LCFF_X6_Y11_N9
+D1_oCoord_X[3] = DFFEAS(D1L98, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_X[4] is VGA_Controller:u1|oCoord_X[4] at LCFF_X6_Y11_N11
+D1_oCoord_X[4] = DFFEAS(D1L101, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_X[5] is VGA_Controller:u1|oCoord_X[5] at LCFF_X6_Y11_N13
+D1_oCoord_X[5] = DFFEAS(D1L104, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_X[6] is VGA_Controller:u1|oCoord_X[6] at LCFF_X6_Y11_N15
+D1_oCoord_X[6] = DFFEAS(D1L107, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_X[7] is VGA_Controller:u1|oCoord_X[7] at LCFF_X6_Y11_N17
+D1_oCoord_X[7] = DFFEAS(D1L110, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_X[8] is VGA_Controller:u1|oCoord_X[8] at LCFF_X6_Y11_N19
+D1_oCoord_X[8] = DFFEAS(D1L113, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--D1_oCoord_X[9] is VGA_Controller:u1|oCoord_X[9] at LCFF_X6_Y11_N21
+D1_oCoord_X[9] = DFFEAS(D1L116, GLOBAL(E1L2), GLOBAL(C1L63),  , D1L89,  ,  ,  ,  );
+
+
+--E1__clk0 is VGA_Audio_PLL:p1|altpll:altpll_component|_clk0 at PLL_3
+E1__clk0 = PLL.CLK0(.ENA(), .CLKSWITCH(), .ARESET(!GLOBAL(C1L63)), .PFDENA(), .INCLK(CLOCK_27), .INCLK());
+
+--E1__clk1 is VGA_Audio_PLL:p1|altpll:altpll_component|_clk1 at PLL_3
+E1__clk1 = PLL.CLK1(.ENA(), .CLKSWITCH(), .ARESET(!GLOBAL(C1L63)), .PFDENA(), .INCLK(CLOCK_27), .INCLK());
+
+--E1__clk2 is VGA_Audio_PLL:p1|altpll:altpll_component|_clk2 at PLL_3
+E1__clk2 = PLL.CLK2(.ENA(), .CLKSWITCH(), .ARESET(!GLOBAL(C1L63)), .PFDENA(), .INCLK(CLOCK_27), .INCLK());
+
+
+--D1_oVGA_H_SYNC is VGA_Controller:u1|oVGA_H_SYNC at LCFF_X6_Y11_N25
+D1_oVGA_H_SYNC = DFFEAS(D1L51, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  ,  ,  );
+
+
+--D1_oVGA_V_SYNC is VGA_Controller:u1|oVGA_V_SYNC at LCFF_X6_Y11_N29
+D1_oVGA_V_SYNC = DFFEAS(D1L165, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  ,  ,  );
+
+
+--D1_oVGA_BLANK is VGA_Controller:u1|oVGA_BLANK at LCCOMB_X11_Y35_N0
+D1_oVGA_BLANK = D1_oVGA_H_SYNC & D1_oVGA_V_SYNC;
+
+
+--D1_Cur_Color_R[6] is VGA_Controller:u1|Cur_Color_R[6] at LCFF_X18_Y11_N9
+D1_Cur_Color_R[6] = DFFEAS(UNCONNECTED_DATAIN, GLOBAL(E1L2), GLOBAL(C1L63),  ,  , mVGA_R[6],  ,  , VCC);
+
+
+--D1_V_Cont[6] is VGA_Controller:u1|V_Cont[6] at LCFF_X8_Y11_N17
+D1_V_Cont[6] = DFFEAS(D1L76, GLOBAL(E1L2), GLOBAL(C1L63),  , A1L493,  ,  , D1L54,  );
+
+
+--D1_V_Cont[7] is VGA_Controller:u1|V_Cont[7] at LCFF_X8_Y11_N19
+D1_V_Cont[7] = DFFEAS(D1L79, GLOBAL(E1L2), GLOBAL(C1L63),  , A1L493,  ,  , D1L54,  );
+
+
+--D1_V_Cont[8] is VGA_Controller:u1|V_Cont[8] at LCFF_X8_Y11_N21
+D1_V_Cont[8] = DFFEAS(D1L82, GLOBAL(E1L2), GLOBAL(C1L63),  , A1L493,  ,  , D1L54,  );
+
+
+--D1L47 is VGA_Controller:u1|LessThan~1038 at LCCOMB_X7_Y11_N2
+D1L47 = !D1_V_Cont[7] & !D1_V_Cont[6] & !D1_V_Cont[8];
+
+
+--D1_V_Cont[1] is VGA_Controller:u1|V_Cont[1] at LCFF_X8_Y11_N7
+D1_V_Cont[1] = DFFEAS(D1L61, GLOBAL(E1L2), GLOBAL(C1L63),  , A1L493,  ,  , D1L54,  );
+
+
+--D1_V_Cont[2] is VGA_Controller:u1|V_Cont[2] at LCFF_X8_Y11_N9
+D1_V_Cont[2] = DFFEAS(D1L64, GLOBAL(E1L2), GLOBAL(C1L63),  , A1L493,  ,  , D1L54,  );
+
+
+--D1_V_Cont[3] is VGA_Controller:u1|V_Cont[3] at LCFF_X8_Y11_N11
+D1_V_Cont[3] = DFFEAS(D1L67, GLOBAL(E1L2), GLOBAL(C1L63),  , A1L493,  ,  , D1L54,  );
+
+
+--D1L48 is VGA_Controller:u1|LessThan~1039 at LCCOMB_X7_Y11_N28
+D1L48 = !D1_V_Cont[2] & !D1_V_Cont[3] & !D1_V_Cont[1];
+
+
+--D1_V_Cont[4] is VGA_Controller:u1|V_Cont[4] at LCFF_X8_Y11_N13
+D1_V_Cont[4] = DFFEAS(D1L70, GLOBAL(E1L2), GLOBAL(C1L63),  , A1L493,  ,  , D1L54,  );
+
+
+--D1_V_Cont[5] is VGA_Controller:u1|V_Cont[5] at LCFF_X8_Y11_N15
+D1_V_Cont[5] = DFFEAS(D1L73, GLOBAL(E1L2), GLOBAL(C1L63),  , A1L493,  ,  , D1L54,  );
+
+
+--D1L49 is VGA_Controller:u1|LessThan~1040 at LCCOMB_X7_Y11_N6
+D1L49 = !D1_V_Cont[4] & D1L48 # !D1_V_Cont[5];
+
+
+--D1_V_Cont[9] is VGA_Controller:u1|V_Cont[9] at LCFF_X8_Y11_N23
+D1_V_Cont[9] = DFFEAS(D1L85, GLOBAL(E1L2), GLOBAL(C1L63),  , A1L493,  ,  , D1L54,  );
+
+
+--D1L50 is VGA_Controller:u1|LessThan~1041 at LCCOMB_X7_Y11_N30
+D1L50 = D1_V_Cont[4] # D1_V_Cont[5] # !D1L47 # !D1L48;
+
+
+--D1L160 is VGA_Controller:u1|oVGA_R~304 at LCCOMB_X7_Y11_N0
+D1L160 = D1_V_Cont[9] & (!D1L50) # !D1_V_Cont[9] & (!D1L47 # !D1L49);
+
+
+--D1_H_Cont[7] is VGA_Controller:u1|H_Cont[7] at LCFF_X5_Y11_N17
+D1_H_Cont[7] = DFFEAS(D1L39, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  , D1L55,  );
+
+
+--D1_H_Cont[4] is VGA_Controller:u1|H_Cont[4] at LCFF_X5_Y11_N11
+D1_H_Cont[4] = DFFEAS(D1L30, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  , D1L55,  );
+
+
+--D1_H_Cont[2] is VGA_Controller:u1|H_Cont[2] at LCFF_X5_Y11_N7
+D1_H_Cont[2] = DFFEAS(D1L24, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  , D1L55,  );
+
+
+--D1_H_Cont[3] is VGA_Controller:u1|H_Cont[3] at LCFF_X5_Y11_N9
+D1_H_Cont[3] = DFFEAS(D1L27, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  , D1L55,  );
+
+
+--D1_H_Cont[0] is VGA_Controller:u1|H_Cont[0] at LCFF_X5_Y11_N3
+D1_H_Cont[0] = DFFEAS(D1L18, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  , D1L55,  );
+
+
+--D1_H_Cont[1] is VGA_Controller:u1|H_Cont[1] at LCFF_X5_Y11_N5
+D1_H_Cont[1] = DFFEAS(D1L21, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  , D1L55,  );
+
+
+--A1L488 is rtl~188 at LCCOMB_X5_Y10_N0
+A1L488 = !D1_H_Cont[1] & !D1_H_Cont[0];
+
+
+--D1L161 is VGA_Controller:u1|oVGA_R~305 at LCCOMB_X5_Y11_N26
+D1L161 = D1_H_Cont[2] & !A1L488 & D1_H_Cont[3] & D1_H_Cont[4];
+
+
+--D1_H_Cont[5] is VGA_Controller:u1|H_Cont[5] at LCFF_X5_Y11_N13
+D1_H_Cont[5] = DFFEAS(D1L33, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  , D1L55,  );
+
+
+--D1_H_Cont[6] is VGA_Controller:u1|H_Cont[6] at LCFF_X5_Y11_N15
+D1_H_Cont[6] = DFFEAS(D1L36, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  , D1L55,  );
+
+
+--A1L489 is rtl~189 at LCCOMB_X5_Y11_N30
+A1L489 = !D1_H_Cont[6] & !D1_H_Cont[5];
+
+
+--D1_H_Cont[8] is VGA_Controller:u1|H_Cont[8] at LCFF_X5_Y11_N19
+D1_H_Cont[8] = DFFEAS(D1L42, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  , D1L55,  );
+
+
+--D1L162 is VGA_Controller:u1|oVGA_R~306 at LCCOMB_X5_Y11_N0
+D1L162 = !D1_H_Cont[8] & D1_H_Cont[7] & (D1L161 # !A1L489);
+
+
+--A1L490 is rtl~190 at LCCOMB_X6_Y11_N22
+A1L490 = !D1_H_Cont[5] & !D1_H_Cont[7] & !D1_H_Cont[6];
+
+
+--D1_H_Cont[9] is VGA_Controller:u1|H_Cont[9] at LCFF_X5_Y11_N21
+D1_H_Cont[9] = DFFEAS(D1L45, GLOBAL(E1L2), GLOBAL(C1L63),  ,  ,  ,  , D1L55,  );
+
+
+--D1L163 is VGA_Controller:u1|oVGA_R~307 at LCCOMB_X6_Y11_N2
+D1L163 = D1_H_Cont[8] & (!D1L161 & A1L490 # !D1_H_Cont[9]) # !D1_H_Cont[8] & (D1_H_Cont[9]);
+
+
+--D1L156 is VGA_Controller:u1|oVGA_R[6]~308 at LCCOMB_X18_Y11_N8
+D1L156 = D1L160 & D1_Cur_Color_R[6] & (D1L162 # D1L163);
+
+
+--D1_Cur_Color_R[7] is VGA_Controller:u1|Cur_Color_R[7] at LCFF_X18_Y11_N11
+D1_Cur_Color_R[7] = DFFEAS(UNCONNECTED_DATAIN, GLOBAL(E1L2), GLOBAL(C1L63),  ,  , mVGA_R[7],  ,  , VCC);
+
+
+--D1L157 is VGA_Controller:u1|oVGA_R[7]~309 at LCCOMB_X18_Y11_N10
+D1L157 = D1L160 & D1_Cur_Color_R[7] & (D1L162 # D1L163);
+
+
+--D1_Cur_Color_R[8] is VGA_Controller:u1|Cur_Color_R[8] at LCFF_X18_Y11_N27
+D1_Cur_Color_R[8] = DFFEAS(UNCONNECTED_DATAIN, GLOBAL(E1L2), GLOBAL(C1L63),  ,  , mVGA_R[8],  ,  , VCC);
+
+
+--D1L158 is VGA_Controller:u1|oVGA_R[8]~310 at LCCOMB_X18_Y11_N26
+D1L158 = D1L160 & D1_Cur_Color_R[8] & (D1L162 # D1L163);
+
+
+--D1_Cur_Color_R[9] is VGA_Controller:u1|Cur_Color_R[9] at LCFF_X18_Y11_N21
+D1_Cur_Color_R[9] = DFFEAS(UNCONNECTED_DATAIN, GLOBAL(E1L2), GLOBAL(C1L63),  ,  , mVGA_R[9],  ,  , VCC);
+
+
+--D1L159 is VGA_Controller:u1|oVGA_R[9]~311 at LCCOMB_X18_Y11_N20
+D1L159 = D1L160 & D1_Cur_Color_R[9] & (D1L162 # D1L163);
+
+
+--D1_Cur_Color_G[6] is VGA_Controller:u1|Cur_Color_G[6] at LCFF_X18_Y11_N13
+D1_Cur_Color_G[6] = DFFEAS(UNCONNECTED_DATAIN, GLOBAL(E1L2), GLOBAL(C1L63),  ,  , mVGA_G[6],  ,  , VCC);
+
+
+--D1L151 is VGA_Controller:u1|oVGA_G[6]~60 at LCCOMB_X18_Y11_N12
+D1L151 = D1L160 & D1_Cur_Color_G[6] & (D1L162 # D1L163);
+
+
+--D1_Cur_Color_G[7] is VGA_Controller:u1|Cur_Color_G[7] at LCFF_X18_Y11_N23
+D1_Cur_Color_G[7] = DFFEAS(UNCONNECTED_DATAIN, GLOBAL(E1L2), GLOBAL(C1L63),  ,  , mVGA_G[7],  ,  , VCC);
+
+
+--D1L152 is VGA_Controller:u1|oVGA_G[7]~61 at LCCOMB_X18_Y11_N22
+D1L152 = D1L160 & D1_Cur_Color_G[7] & (D1L162 # D1L163);
+
+
+--D1_Cur_Color_G[8] is VGA_Controller:u1|Cur_Color_G[8] at LCFF_X18_Y11_N25
+D1_Cur_Color_G[8] = DFFEAS(UNCONNECTED_DATAIN, GLOBAL(E1L2), GLOBAL(C1L63),  ,  , mVGA_G[8],  ,  , VCC);
+
+
+--D1L153 is VGA_Controller:u1|oVGA_G[8]~62 at LCCOMB_X18_Y11_N24
+D1L153 = D1L160 & D1_Cur_Color_G[8] & (D1L162 # D1L163);
+
+
+--D1_Cur_Color_G[9] is VGA_Controller:u1|Cur_Color_G[9] at LCFF_X18_Y11_N1
+D1_Cur_Color_G[9] = DFFEAS(UNCONNECTED_DATAIN, GLOBAL(E1L2), GLOBAL(C1L63),  ,  , mVGA_G[9],  ,  , VCC);
+
+
+--D1L154 is VGA_Controller:u1|oVGA_G[9]~63 at LCCOMB_X18_Y11_N0
+D1L154 = D1L160 & D1_Cur_Color_G[9] & (D1L162 # D1L163);
+
+
+--D1_Cur_Color_B[6] is VGA_Controller:u1|Cur_Color_B[6] at LCFF_X18_Y11_N3
+D1_Cur_Color_B[6] = DFFEAS(UNCONNECTED_DATAIN, GLOBAL(E1L2), GLOBAL(C1L63),  ,  , mVGA_B[6],  ,  , VCC);
+
+
+--D1L147 is VGA_Controller:u1|oVGA_B[6]~60 at LCCOMB_X18_Y11_N2
+D1L147 = D1L160 & D1_Cur_Color_B[6] & (D1L162 # D1L163);
+
+
+--D1_Cur_Color_B[7] is VGA_Controller:u1|Cur_Color_B[7] at LCFF_X18_Y11_N17
+D1_Cur_Color_B[7] = DFFEAS(UNCONNECTED_DATAIN, GLOBAL(E1L2), GLOBAL(C1L63),  ,  , mVGA_B[7],  ,  , VCC);
+
+
+--D1L148 is VGA_Controller:u1|oVGA_B[7]~61 at LCCOMB_X18_Y11_N16
+D1L148 = D1L160 & D1_Cur_Color_B[7] & (D1L162 # D1L163);
+
+
+--D1_Cur_Color_B[8] is VGA_Controller:u1|Cur_Color_B[8] at LCFF_X18_Y11_N29
+D1_Cur_Color_B[8] = DFFEAS(UNCONNECTED_DATAIN, GLOBAL(E1L2), GLOBAL(C1L63),  ,  , mVGA_B[8],  ,  , VCC);
+
+
+--D1L149 is VGA_Controller:u1|oVGA_B[8]~62 at LCCOMB_X18_Y11_N28
+D1L149 = D1L160 & D1_Cur_Color_B[8] & (D1L162 # D1L163);
+
+
+--D1_Cur_Color_B[9] is VGA_Controller:u1|Cur_Color_B[9] at LCFF_X18_Y11_N19
+D1_Cur_Color_B[9] = DFFEAS(UNCONNECTED_DATAIN, GLOBAL(E1L2), GLOBAL(C1L63),  ,  , mVGA_B[9],  ,  , VCC);
+
+
+--D1L150 is VGA_Controller:u1|oVGA_B[9]~63 at LCCOMB_X18_Y11_N18
+D1L150 = D1L160 & D1_Cur_Color_B[9] & (D1L162 # D1L163);
+
+
+--D1L120 is VGA_Controller:u1|oCoord_Y[1]~81 at LCCOMB_X7_Y11_N10
+D1L120 = D1_V_Cont[1] $ VCC;
+
+--D1L121 is VGA_Controller:u1|oCoord_Y[1]~82 at LCCOMB_X7_Y11_N10
+D1L121 = CARRY(D1_V_Cont[1]);
+
+
+--C1_oRESET is Reset_Delay:r0|oRESET at LCFF_X33_Y2_N11
+C1_oRESET = DFFEAS(A1L500, GLOBAL(A1L10),  ,  ,  ,  ,  ,  ,  );
+
+
+--D1L87 is VGA_Controller:u1|always0~207 at LCCOMB_X5_Y11_N24
+D1L87 = D1_H_Cont[4] & (D1_H_Cont[2] # D1_H_Cont[3]);
+
+
+--D1L88 is VGA_Controller:u1|always0~208 at LCCOMB_X7_Y11_N8
+D1L88 = D1_H_Cont[7] & !D1_H_Cont[8] & (D1L87 # !A1L489) # !D1_H_Cont[7] & A1L489 & !D1L87 & D1_H_Cont[8];
+
+
+--D1L89 is VGA_Controller:u1|always0~209 at LCCOMB_X7_Y11_N4
+D1L89 = D1L160 & (D1L88 # D1_H_Cont[9] $ D1_H_Cont[8]);
+
+
+--D1L123 is VGA_Controller:u1|oCoord_Y[2]~83 at LCCOMB_X7_Y11_N12
+D1L123 = D1_V_Cont[2] & D1L121 & VCC # !D1_V_Cont[2] & !D1L121;
+
+--D1L124 is VGA_Controller:u1|oCoord_Y[2]~84 at LCCOMB_X7_Y11_N12
+D1L124 = CARRY(!D1_V_Cont[2] & !D1L121);
+
+
+--D1L126 is VGA_Controller:u1|oCoord_Y[3]~85 at LCCOMB_X7_Y11_N14
+D1L126 = D1_V_Cont[3] & (GND # !D1L124) # !D1_V_Cont[3] & (D1L124 $ GND);
+
+--D1L127 is VGA_Controller:u1|oCoord_Y[3]~86 at LCCOMB_X7_Y11_N14
+D1L127 = CARRY(D1_V_Cont[3] # !D1L124);
+
+
+--D1L129 is VGA_Controller:u1|oCoord_Y[4]~87 at LCCOMB_X7_Y11_N16
+D1L129 = D1_V_Cont[4] & D1L127 & VCC # !D1_V_Cont[4] & !D1L127;
+
+--D1L130 is VGA_Controller:u1|oCoord_Y[4]~88 at LCCOMB_X7_Y11_N16
+D1L130 = CARRY(!D1_V_Cont[4] & !D1L127);
+
+
+--D1L132 is VGA_Controller:u1|oCoord_Y[5]~89 at LCCOMB_X7_Y11_N18
+D1L132 = D1_V_Cont[5] & (D1L130 $ GND) # !D1_V_Cont[5] & !D1L130 & VCC;
+
+--D1L133 is VGA_Controller:u1|oCoord_Y[5]~90 at LCCOMB_X7_Y11_N18
+D1L133 = CARRY(D1_V_Cont[5] & !D1L130);
+
+
+--D1L135 is VGA_Controller:u1|oCoord_Y[6]~91 at LCCOMB_X7_Y11_N20
+D1L135 = D1_V_Cont[6] & D1L133 & VCC # !D1_V_Cont[6] & !D1L133;
+
+--D1L136 is VGA_Controller:u1|oCoord_Y[6]~92 at LCCOMB_X7_Y11_N20
+D1L136 = CARRY(!D1_V_Cont[6] & !D1L133);
+
+
+--D1L138 is VGA_Controller:u1|oCoord_Y[7]~93 at LCCOMB_X7_Y11_N22
+D1L138 = D1_V_Cont[7] & (GND # !D1L136) # !D1_V_Cont[7] & (D1L136 $ GND);
+
+--D1L139 is VGA_Controller:u1|oCoord_Y[7]~94 at LCCOMB_X7_Y11_N22
+D1L139 = CARRY(D1_V_Cont[7] # !D1L136);
+
+
+--D1L141 is VGA_Controller:u1|oCoord_Y[8]~95 at LCCOMB_X7_Y11_N24
+D1L141 = D1_V_Cont[8] & D1L139 & VCC # !D1_V_Cont[8] & !D1L139;
+
+--D1L142 is VGA_Controller:u1|oCoord_Y[8]~96 at LCCOMB_X7_Y11_N24
+D1L142 = CARRY(!D1_V_Cont[8] & !D1L139);
+
+
+--D1L144 is VGA_Controller:u1|oCoord_Y[9]~97 at LCCOMB_X7_Y11_N26
+D1L144 = D1_V_Cont[9] $ D1L142;
+
+
+--D1L90 is VGA_Controller:u1|always0~210 at LCCOMB_X5_Y11_N28
+D1L90 = D1L88 # D1_H_Cont[9] $ D1_H_Cont[8];
+
+
+--D1L93 is VGA_Controller:u1|oCoord_X[1]~173 at LCCOMB_X5_Y11_N22
+D1L93 = D1L160 & (D1L90 & D1_H_Cont[1] # !D1L90 & (D1_oCoord_X[1])) # !D1L160 & (D1_oCoord_X[1]);
+
+
+--D1L95 is VGA_Controller:u1|oCoord_X[2]~174 at LCCOMB_X6_Y11_N6
+D1L95 = D1_H_Cont[2] $ VCC;
+
+--D1L96 is VGA_Controller:u1|oCoord_X[2]~175 at LCCOMB_X6_Y11_N6
+D1L96 = CARRY(D1_H_Cont[2]);
+
+
+--D1L98 is VGA_Controller:u1|oCoord_X[3]~176 at LCCOMB_X6_Y11_N8
+D1L98 = D1_H_Cont[3] & D1L96 & VCC # !D1_H_Cont[3] & !D1L96;
+
+--D1L99 is VGA_Controller:u1|oCoord_X[3]~177 at LCCOMB_X6_Y11_N8
+D1L99 = CARRY(!D1_H_Cont[3] & !D1L96);
+
+
+--D1L101 is VGA_Controller:u1|oCoord_X[4]~178 at LCCOMB_X6_Y11_N10
+D1L101 = D1_H_Cont[4] & (D1L99 $ GND) # !D1_H_Cont[4] & !D1L99 & VCC;
+
+--D1L102 is VGA_Controller:u1|oCoord_X[4]~179 at LCCOMB_X6_Y11_N10
+D1L102 = CARRY(D1_H_Cont[4] & !D1L99);
+
+
+--D1L104 is VGA_Controller:u1|oCoord_X[5]~180 at LCCOMB_X6_Y11_N12
+D1L104 = D1_H_Cont[5] & D1L102 & VCC # !D1_H_Cont[5] & !D1L102;
+
+--D1L105 is VGA_Controller:u1|oCoord_X[5]~181 at LCCOMB_X6_Y11_N12
+D1L105 = CARRY(!D1_H_Cont[5] & !D1L102);
+
+
+--D1L107 is VGA_Controller:u1|oCoord_X[6]~182 at LCCOMB_X6_Y11_N14
+D1L107 = D1_H_Cont[6] & (GND # !D1L105) # !D1_H_Cont[6] & (D1L105 $ GND);
+
+--D1L108 is VGA_Controller:u1|oCoord_X[6]~183 at LCCOMB_X6_Y11_N14
+D1L108 = CARRY(D1_H_Cont[6] # !D1L105);
+
+
+--D1L110 is VGA_Controller:u1|oCoord_X[7]~184 at LCCOMB_X6_Y11_N16
+D1L110 = D1_H_Cont[7] & !D1L108 # !D1_H_Cont[7] & (D1L108 # GND);
+
+--D1L111 is VGA_Controller:u1|oCoord_X[7]~185 at LCCOMB_X6_Y11_N16
+D1L111 = CARRY(!D1L108 # !D1_H_Cont[7]);
+
+
+--D1L113 is VGA_Controller:u1|oCoord_X[8]~186 at LCCOMB_X6_Y11_N18
+D1L113 = D1_H_Cont[8] & (GND # !D1L111) # !D1_H_Cont[8] & (D1L111 $ GND);
+
+--D1L114 is VGA_Controller:u1|oCoord_X[8]~187 at LCCOMB_X6_Y11_N18
+D1L114 = CARRY(D1_H_Cont[8] # !D1L111);
+
+
+--D1L116 is VGA_Controller:u1|oCoord_X[9]~188 at LCCOMB_X6_Y11_N20
+D1L116 = D1_H_Cont[9] $ !D1L114;
+
+
+--A1L491 is rtl~191 at LCCOMB_X6_Y11_N0
+A1L491 = !D1_H_Cont[9] & !D1_H_Cont[8];
+
+
+--D1L51 is VGA_Controller:u1|LessThan~1042 at LCCOMB_X6_Y11_N24
+D1L51 = D1_H_Cont[7] # D1_H_Cont[6] & D1_H_Cont[5] # !A1L491;
+
+
+--A1L492 is rtl~192 at LCCOMB_X6_Y11_N26
+A1L492 = !D1_H_Cont[0] & !D1_H_Cont[1] & !D1_H_Cont[2] & !D1_H_Cont[3];
+
+
+--A1L493 is rtl~193 at LCCOMB_X6_Y11_N4
+A1L493 = !D1_H_Cont[4] & A1L490 & A1L491 & A1L492;
+
+
+--D1L165 is VGA_Controller:u1|oVGA_V_SYNC~174 at LCCOMB_X6_Y11_N28
+D1L165 = A1L493 & (D1_V_Cont[9] # D1L50) # !A1L493 & (D1_oVGA_V_SYNC);
+
+
+--D1_V_Cont[0] is VGA_Controller:u1|V_Cont[0] at LCFF_X8_Y11_N5
+D1_V_Cont[0] = DFFEAS(D1L58, GLOBAL(E1L2), GLOBAL(C1L63),  , A1L493,  ,  , D1L54,  );
+
+
+--D1L58 is VGA_Controller:u1|V_Cont[0]~256 at LCCOMB_X8_Y11_N4
+D1L58 = D1_V_Cont[0] $ VCC;
+
+--D1L59 is VGA_Controller:u1|V_Cont[0]~257 at LCCOMB_X8_Y11_N4
+D1L59 = CARRY(D1_V_Cont[0]);
+
+
+--D1L61 is VGA_Controller:u1|V_Cont[1]~258 at LCCOMB_X8_Y11_N6
+D1L61 = D1_V_Cont[1] & !D1L59 # !D1_V_Cont[1] & (D1L59 # GND);
+
+--D1L62 is VGA_Controller:u1|V_Cont[1]~259 at LCCOMB_X8_Y11_N6
+D1L62 = CARRY(!D1L59 # !D1_V_Cont[1]);
+
+
+--D1L64 is VGA_Controller:u1|V_Cont[2]~260 at LCCOMB_X8_Y11_N8
+D1L64 = D1_V_Cont[2] & (D1L62 $ GND) # !D1_V_Cont[2] & !D1L62 & VCC;
+
+--D1L65 is VGA_Controller:u1|V_Cont[2]~261 at LCCOMB_X8_Y11_N8
+D1L65 = CARRY(D1_V_Cont[2] & !D1L62);
+
+
+--D1L67 is VGA_Controller:u1|V_Cont[3]~262 at LCCOMB_X8_Y11_N10
+D1L67 = D1_V_Cont[3] & !D1L65 # !D1_V_Cont[3] & (D1L65 # GND);
+
+--D1L68 is VGA_Controller:u1|V_Cont[3]~263 at LCCOMB_X8_Y11_N10
+D1L68 = CARRY(!D1L65 # !D1_V_Cont[3]);
+
+
+--D1L70 is VGA_Controller:u1|V_Cont[4]~264 at LCCOMB_X8_Y11_N12
+D1L70 = D1_V_Cont[4] & (D1L68 $ GND) # !D1_V_Cont[4] & !D1L68 & VCC;
+
+--D1L71 is VGA_Controller:u1|V_Cont[4]~265 at LCCOMB_X8_Y11_N12
+D1L71 = CARRY(D1_V_Cont[4] & !D1L68);
+
+
+--D1L73 is VGA_Controller:u1|V_Cont[5]~266 at LCCOMB_X8_Y11_N14
+D1L73 = D1_V_Cont[5] & !D1L71 # !D1_V_Cont[5] & (D1L71 # GND);
+
+--D1L74 is VGA_Controller:u1|V_Cont[5]~267 at LCCOMB_X8_Y11_N14
+D1L74 = CARRY(!D1L71 # !D1_V_Cont[5]);
+
+
+--D1L76 is VGA_Controller:u1|V_Cont[6]~268 at LCCOMB_X8_Y11_N16
+D1L76 = D1_V_Cont[6] & (D1L74 $ GND) # !D1_V_Cont[6] & !D1L74 & VCC;
+
+--D1L77 is VGA_Controller:u1|V_Cont[6]~269 at LCCOMB_X8_Y11_N16
+D1L77 = CARRY(D1_V_Cont[6] & !D1L74);
+
+
+--D1L52 is VGA_Controller:u1|LessThan~1043 at LCCOMB_X8_Y11_N0
+D1L52 = !D1_V_Cont[4] & !D1_V_Cont[5] & D1L47;
+
+
+--D1L53 is VGA_Controller:u1|LessThan~1044 at LCCOMB_X8_Y11_N28
+D1L53 = !D1_V_Cont[1] & !D1_V_Cont[0] # !D1_V_Cont[3] # !D1_V_Cont[2];
+
+
+--D1L54 is VGA_Controller:u1|LessThan~1045 at LCCOMB_X8_Y11_N24
+D1L54 = D1_V_Cont[9] & (!D1L53 # !D1L52);
+
+
+--D1L79 is VGA_Controller:u1|V_Cont[7]~270 at LCCOMB_X8_Y11_N18
+D1L79 = D1_V_Cont[7] & !D1L77 # !D1_V_Cont[7] & (D1L77 # GND);
+
+--D1L80 is VGA_Controller:u1|V_Cont[7]~271 at LCCOMB_X8_Y11_N18
+D1L80 = CARRY(!D1L77 # !D1_V_Cont[7]);
+
+
+--D1L82 is VGA_Controller:u1|V_Cont[8]~272 at LCCOMB_X8_Y11_N20
+D1L82 = D1_V_Cont[8] & (D1L80 $ GND) # !D1_V_Cont[8] & !D1L80 & VCC;
+
+--D1L83 is VGA_Controller:u1|V_Cont[8]~273 at LCCOMB_X8_Y11_N20
+D1L83 = CARRY(D1_V_Cont[8] & !D1L80);
+
+
+--D1L85 is VGA_Controller:u1|V_Cont[9]~274 at LCCOMB_X8_Y11_N22
+D1L85 = D1L83 $ D1_V_Cont[9];
+
+
+--D1L18 is VGA_Controller:u1|H_Cont[0]~239 at LCCOMB_X5_Y11_N2
+D1L18 = D1_H_Cont[0] $ VCC;
+
+--D1L19 is VGA_Controller:u1|H_Cont[0]~240 at LCCOMB_X5_Y11_N2
+D1L19 = CARRY(D1_H_Cont[0]);
+
+
+--D1L21 is VGA_Controller:u1|H_Cont[1]~241 at LCCOMB_X5_Y11_N4
+D1L21 = D1_H_Cont[1] & !D1L19 # !D1_H_Cont[1] & (D1L19 # GND);
+
+--D1L22 is VGA_Controller:u1|H_Cont[1]~242 at LCCOMB_X5_Y11_N4
+D1L22 = CARRY(!D1L19 # !D1_H_Cont[1]);
+
+
+--D1L24 is VGA_Controller:u1|H_Cont[2]~243 at LCCOMB_X5_Y11_N6
+D1L24 = D1_H_Cont[2] & (D1L22 $ GND) # !D1_H_Cont[2] & !D1L22 & VCC;
+
+--D1L25 is VGA_Controller:u1|H_Cont[2]~244 at LCCOMB_X5_Y11_N6
+D1L25 = CARRY(D1_H_Cont[2] & !D1L22);
+
+
+--D1L27 is VGA_Controller:u1|H_Cont[3]~245 at LCCOMB_X5_Y11_N8
+D1L27 = D1_H_Cont[3] & !D1L25 # !D1_H_Cont[3] & (D1L25 # GND);
+
+--D1L28 is VGA_Controller:u1|H_Cont[3]~246 at LCCOMB_X5_Y11_N8
+D1L28 = CARRY(!D1L25 # !D1_H_Cont[3]);
+
+
+--D1L30 is VGA_Controller:u1|H_Cont[4]~247 at LCCOMB_X5_Y11_N10
+D1L30 = D1_H_Cont[4] & (D1L28 $ GND) # !D1_H_Cont[4] & !D1L28 & VCC;
+
+--D1L31 is VGA_Controller:u1|H_Cont[4]~248 at LCCOMB_X5_Y11_N10
+D1L31 = CARRY(D1_H_Cont[4] & !D1L28);
+
+
+--D1L33 is VGA_Controller:u1|H_Cont[5]~249 at LCCOMB_X5_Y11_N12
+D1L33 = D1_H_Cont[5] & !D1L31 # !D1_H_Cont[5] & (D1L31 # GND);
+
+--D1L34 is VGA_Controller:u1|H_Cont[5]~250 at LCCOMB_X5_Y11_N12
+D1L34 = CARRY(!D1L31 # !D1_H_Cont[5]);
+
+
+--D1L36 is VGA_Controller:u1|H_Cont[6]~251 at LCCOMB_X5_Y11_N14
+D1L36 = D1_H_Cont[6] & (D1L34 $ GND) # !D1_H_Cont[6] & !D1L34 & VCC;
+
+--D1L37 is VGA_Controller:u1|H_Cont[6]~252 at LCCOMB_X5_Y11_N14
+D1L37 = CARRY(D1_H_Cont[6] & !D1L34);
+
+
+--D1L39 is VGA_Controller:u1|H_Cont[7]~253 at LCCOMB_X5_Y11_N16
+D1L39 = D1_H_Cont[7] & !D1L37 # !D1_H_Cont[7] & (D1L37 # GND);
+
+--D1L40 is VGA_Controller:u1|H_Cont[7]~254 at LCCOMB_X5_Y11_N16
+D1L40 = CARRY(!D1L37 # !D1_H_Cont[7]);
+
+
+--D1L55 is VGA_Controller:u1|LessThan~1046 at LCCOMB_X6_Y11_N30
+D1L55 = D1_H_Cont[8] & D1_H_Cont[9] & !A1L490;
+
+
+--D1L42 is VGA_Controller:u1|H_Cont[8]~255 at LCCOMB_X5_Y11_N18
+D1L42 = D1_H_Cont[8] & (D1L40 $ GND) # !D1_H_Cont[8] & !D1L40 & VCC;
+
+--D1L43 is VGA_Controller:u1|H_Cont[8]~256 at LCCOMB_X5_Y11_N18
+D1L43 = CARRY(D1_H_Cont[8] & !D1L40);
+
+
+--D1L45 is VGA_Controller:u1|H_Cont[9]~257 at LCCOMB_X5_Y11_N20
+D1L45 = D1_H_Cont[9] $ D1L43;
+
+
+--C1_Cont[0] is Reset_Delay:r0|Cont[0] at LCFF_X33_Y2_N13
+C1_Cont[0] = DFFEAS(C1L3, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[1] is Reset_Delay:r0|Cont[1] at LCFF_X33_Y2_N15
+C1_Cont[1] = DFFEAS(C1L6, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--A1L494 is rtl~194 at LCCOMB_X33_Y2_N4
+A1L494 = C1_Cont[1] & C1_Cont[0];
+
+
+--C1_Cont[2] is Reset_Delay:r0|Cont[2] at LCFF_X33_Y2_N17
+C1_Cont[2] = DFFEAS(C1L9, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[3] is Reset_Delay:r0|Cont[3] at LCFF_X33_Y2_N19
+C1_Cont[3] = DFFEAS(C1L12, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[4] is Reset_Delay:r0|Cont[4] at LCFF_X33_Y2_N21
+C1_Cont[4] = DFFEAS(C1L15, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[5] is Reset_Delay:r0|Cont[5] at LCFF_X33_Y2_N23
+C1_Cont[5] = DFFEAS(C1L18, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[6] is Reset_Delay:r0|Cont[6] at LCFF_X33_Y2_N25
+C1_Cont[6] = DFFEAS(C1L21, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[7] is Reset_Delay:r0|Cont[7] at LCFF_X33_Y2_N27
+C1_Cont[7] = DFFEAS(C1L24, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--A1L495 is rtl~195 at LCCOMB_X33_Y1_N30
+A1L495 = C1_Cont[7] & C1_Cont[4] & C1_Cont[5] & C1_Cont[6];
+
+
+--A1L496 is rtl~196 at LCCOMB_X33_Y1_N28
+A1L496 = C1_Cont[2] & C1_Cont[3] & A1L494 & A1L495;
+
+
+--C1_Cont[8] is Reset_Delay:r0|Cont[8] at LCFF_X33_Y2_N29
+C1_Cont[8] = DFFEAS(C1L27, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[9] is Reset_Delay:r0|Cont[9] at LCFF_X33_Y2_N31
+C1_Cont[9] = DFFEAS(C1L30, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[10] is Reset_Delay:r0|Cont[10] at LCFF_X33_Y1_N1
+C1_Cont[10] = DFFEAS(C1L33, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[11] is Reset_Delay:r0|Cont[11] at LCFF_X33_Y1_N3
+C1_Cont[11] = DFFEAS(C1L36, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--A1L497 is rtl~197 at LCCOMB_X33_Y1_N24
+A1L497 = C1_Cont[8] & C1_Cont[10] & C1_Cont[9] & C1_Cont[11];
+
+
+--C1_Cont[12] is Reset_Delay:r0|Cont[12] at LCFF_X33_Y1_N5
+C1_Cont[12] = DFFEAS(C1L39, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[13] is Reset_Delay:r0|Cont[13] at LCFF_X33_Y1_N7
+C1_Cont[13] = DFFEAS(C1L42, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[14] is Reset_Delay:r0|Cont[14] at LCFF_X33_Y1_N9
+C1_Cont[14] = DFFEAS(C1L45, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[15] is Reset_Delay:r0|Cont[15] at LCFF_X33_Y1_N11
+C1_Cont[15] = DFFEAS(C1L48, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--A1L498 is rtl~198 at LCCOMB_X33_Y1_N22
+A1L498 = C1_Cont[13] & C1_Cont[12] & C1_Cont[14] & C1_Cont[15];
+
+
+--C1_Cont[16] is Reset_Delay:r0|Cont[16] at LCFF_X33_Y1_N13
+C1_Cont[16] = DFFEAS(C1L51, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[17] is Reset_Delay:r0|Cont[17] at LCFF_X33_Y1_N15
+C1_Cont[17] = DFFEAS(C1L54, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[18] is Reset_Delay:r0|Cont[18] at LCFF_X33_Y1_N17
+C1_Cont[18] = DFFEAS(C1L57, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--C1_Cont[19] is Reset_Delay:r0|Cont[19] at LCFF_X33_Y1_N19
+C1_Cont[19] = DFFEAS(C1L60, GLOBAL(A1L10),  ,  , A1L487,  ,  ,  ,  );
+
+
+--A1L499 is rtl~199 at LCCOMB_X33_Y1_N26
+A1L499 = C1_Cont[16] & C1_Cont[17] & C1_Cont[18] & C1_Cont[19];
+
+
+--A1L487 is rtl~1 at LCCOMB_X33_Y1_N20
+A1L487 = !A1L499 # !A1L497 # !A1L498 # !A1L496;
+
+
+--A1L377 is SRAM_DQ~270 at LCCOMB_X14_Y1_N28
+A1L377 = SW[0] & !KEY[2];
+
+
+--A1L378 is SRAM_DQ~271 at LCCOMB_X14_Y1_N22
+A1L378 = SW[1] & !KEY[2];
+
+
+--A1L379 is SRAM_DQ~272 at LCCOMB_X14_Y1_N8
+A1L379 = !KEY[2] & SW[2];
+
+
+--A1L380 is SRAM_DQ~273 at LCCOMB_X14_Y1_N10
+A1L380 = SW[3] & !KEY[2];
+
+
+--A1L381 is SRAM_DQ~274 at LCCOMB_X14_Y1_N12
+A1L381 = KEY[2] & D1_oCoord_X[9] & D1_oCoord_Y[5] # !KEY[2] & (SW[4]);
+
+
+--A1L382 is SRAM_DQ~275 at LCCOMB_X14_Y1_N18
+A1L382 = KEY[2] & D1_oCoord_Y[6] & (D1_oCoord_X[9]) # !KEY[2] & (SW[5]);
+
+
+--A1L383 is SRAM_DQ~276 at LCCOMB_X14_Y1_N16
+A1L383 = KEY[2] & D1_oCoord_X[9] & (D1_oCoord_Y[7]) # !KEY[2] & (SW[6]);
+
+
+--A1L384 is SRAM_DQ~277 at LCCOMB_X14_Y1_N6
+A1L384 = KEY[2] & D1_oCoord_X[9] & (D1_oCoord_Y[8]) # !KEY[2] & (SW[7]);
+
+
+--A1L385 is SRAM_DQ~278 at LCCOMB_X14_Y1_N26
+A1L385 = KEY[2] & !D1_oCoord_X[9] & D1_oCoord_Y[5] # !KEY[2] & (SW[8]);
+
+
+--A1L386 is SRAM_DQ~279 at LCCOMB_X14_Y1_N0
+A1L386 = KEY[2] & !D1_oCoord_X[9] & D1_oCoord_Y[6] # !KEY[2] & (SW[9]);
+
+
+--A1L387 is SRAM_DQ~280 at LCCOMB_X14_Y1_N20
+A1L387 = KEY[2] & !D1_oCoord_X[9] & (D1_oCoord_Y[7]) # !KEY[2] & (SW[10]);
+
+
+--A1L388 is SRAM_DQ~281 at LCCOMB_X14_Y1_N24
+A1L388 = KEY[2] & !D1_oCoord_X[9] & (D1_oCoord_Y[8]) # !KEY[2] & (SW[11]);
+
+
+--A1L389 is SRAM_DQ~282 at LCCOMB_X14_Y1_N30
+A1L389 = KEY[2] & D1_oCoord_X[5] # !KEY[2] & (SW[12]);
+
+
+--A1L390 is SRAM_DQ~283 at LCCOMB_X14_Y1_N14
+A1L390 = KEY[2] & D1_oCoord_X[6] # !KEY[2] & (SW[13]);
+
+
+--A1L391 is SRAM_DQ~284 at LCCOMB_X14_Y1_N4
+A1L391 = KEY[2] & (D1_oCoord_X[7]) # !KEY[2] & SW[14];
+
+
+--A1L392 is SRAM_DQ~285 at LCCOMB_X14_Y1_N2
+A1L392 = KEY[2] & (D1_oCoord_X[8]) # !KEY[2] & SW[15];
+
+
+--C1L3 is Reset_Delay:r0|Cont[0]~220 at LCCOMB_X33_Y2_N12
+C1L3 = C1_Cont[0] $ VCC;
+
+--C1L4 is Reset_Delay:r0|Cont[0]~221 at LCCOMB_X33_Y2_N12
+C1L4 = CARRY(C1_Cont[0]);
+
+
+--C1L6 is Reset_Delay:r0|Cont[1]~222 at LCCOMB_X33_Y2_N14
+C1L6 = C1_Cont[1] & !C1L4 # !C1_Cont[1] & (C1L4 # GND);
+
+--C1L7 is Reset_Delay:r0|Cont[1]~223 at LCCOMB_X33_Y2_N14
+C1L7 = CARRY(!C1L4 # !C1_Cont[1]);
+
+
+--C1L9 is Reset_Delay:r0|Cont[2]~224 at LCCOMB_X33_Y2_N16
+C1L9 = C1_Cont[2] & (C1L7 $ GND) # !C1_Cont[2] & !C1L7 & VCC;
+
+--C1L10 is Reset_Delay:r0|Cont[2]~225 at LCCOMB_X33_Y2_N16
+C1L10 = CARRY(C1_Cont[2] & !C1L7);
+
+
+--C1L12 is Reset_Delay:r0|Cont[3]~226 at LCCOMB_X33_Y2_N18
+C1L12 = C1_Cont[3] & !C1L10 # !C1_Cont[3] & (C1L10 # GND);
+
+--C1L13 is Reset_Delay:r0|Cont[3]~227 at LCCOMB_X33_Y2_N18
+C1L13 = CARRY(!C1L10 # !C1_Cont[3]);
+
+
+--C1L15 is Reset_Delay:r0|Cont[4]~228 at LCCOMB_X33_Y2_N20
+C1L15 = C1_Cont[4] & (C1L13 $ GND) # !C1_Cont[4] & !C1L13 & VCC;
+
+--C1L16 is Reset_Delay:r0|Cont[4]~229 at LCCOMB_X33_Y2_N20
+C1L16 = CARRY(C1_Cont[4] & !C1L13);
+
+
+--C1L18 is Reset_Delay:r0|Cont[5]~230 at LCCOMB_X33_Y2_N22
+C1L18 = C1_Cont[5] & !C1L16 # !C1_Cont[5] & (C1L16 # GND);
+
+--C1L19 is Reset_Delay:r0|Cont[5]~231 at LCCOMB_X33_Y2_N22
+C1L19 = CARRY(!C1L16 # !C1_Cont[5]);
+
+
+--C1L21 is Reset_Delay:r0|Cont[6]~232 at LCCOMB_X33_Y2_N24
+C1L21 = C1_Cont[6] & (C1L19 $ GND) # !C1_Cont[6] & !C1L19 & VCC;
+
+--C1L22 is Reset_Delay:r0|Cont[6]~233 at LCCOMB_X33_Y2_N24
+C1L22 = CARRY(C1_Cont[6] & !C1L19);
+
+
+--C1L24 is Reset_Delay:r0|Cont[7]~234 at LCCOMB_X33_Y2_N26
+C1L24 = C1_Cont[7] & !C1L22 # !C1_Cont[7] & (C1L22 # GND);
+
+--C1L25 is Reset_Delay:r0|Cont[7]~235 at LCCOMB_X33_Y2_N26
+C1L25 = CARRY(!C1L22 # !C1_Cont[7]);
+
+
+--C1L27 is Reset_Delay:r0|Cont[8]~236 at LCCOMB_X33_Y2_N28
+C1L27 = C1_Cont[8] & (C1L25 $ GND) # !C1_Cont[8] & !C1L25 & VCC;
+
+--C1L28 is Reset_Delay:r0|Cont[8]~237 at LCCOMB_X33_Y2_N28
+C1L28 = CARRY(C1_Cont[8] & !C1L25);
+
+
+--C1L30 is Reset_Delay:r0|Cont[9]~238 at LCCOMB_X33_Y2_N30
+C1L30 = C1_Cont[9] & !C1L28 # !C1_Cont[9] & (C1L28 # GND);
+
+--C1L31 is Reset_Delay:r0|Cont[9]~239 at LCCOMB_X33_Y2_N30
+C1L31 = CARRY(!C1L28 # !C1_Cont[9]);
+
+
+--C1L33 is Reset_Delay:r0|Cont[10]~240 at LCCOMB_X33_Y1_N0
+C1L33 = C1_Cont[10] & (C1L31 $ GND) # !C1_Cont[10] & !C1L31 & VCC;
+
+--C1L34 is Reset_Delay:r0|Cont[10]~241 at LCCOMB_X33_Y1_N0
+C1L34 = CARRY(C1_Cont[10] & !C1L31);
+
+
+--C1L36 is Reset_Delay:r0|Cont[11]~242 at LCCOMB_X33_Y1_N2
+C1L36 = C1_Cont[11] & !C1L34 # !C1_Cont[11] & (C1L34 # GND);
+
+--C1L37 is Reset_Delay:r0|Cont[11]~243 at LCCOMB_X33_Y1_N2
+C1L37 = CARRY(!C1L34 # !C1_Cont[11]);
+
+
+--C1L39 is Reset_Delay:r0|Cont[12]~244 at LCCOMB_X33_Y1_N4
+C1L39 = C1_Cont[12] & (C1L37 $ GND) # !C1_Cont[12] & !C1L37 & VCC;
+
+--C1L40 is Reset_Delay:r0|Cont[12]~245 at LCCOMB_X33_Y1_N4
+C1L40 = CARRY(C1_Cont[12] & !C1L37);
+
+
+--C1L42 is Reset_Delay:r0|Cont[13]~246 at LCCOMB_X33_Y1_N6
+C1L42 = C1_Cont[13] & !C1L40 # !C1_Cont[13] & (C1L40 # GND);
+
+--C1L43 is Reset_Delay:r0|Cont[13]~247 at LCCOMB_X33_Y1_N6
+C1L43 = CARRY(!C1L40 # !C1_Cont[13]);
+
+
+--C1L45 is Reset_Delay:r0|Cont[14]~248 at LCCOMB_X33_Y1_N8
+C1L45 = C1_Cont[14] & (C1L43 $ GND) # !C1_Cont[14] & !C1L43 & VCC;
+
+--C1L46 is Reset_Delay:r0|Cont[14]~249 at LCCOMB_X33_Y1_N8
+C1L46 = CARRY(C1_Cont[14] & !C1L43);
+
+
+--C1L48 is Reset_Delay:r0|Cont[15]~250 at LCCOMB_X33_Y1_N10
+C1L48 = C1_Cont[15] & !C1L46 # !C1_Cont[15] & (C1L46 # GND);
+
+--C1L49 is Reset_Delay:r0|Cont[15]~251 at LCCOMB_X33_Y1_N10
+C1L49 = CARRY(!C1L46 # !C1_Cont[15]);
+
+
+--C1L51 is Reset_Delay:r0|Cont[16]~252 at LCCOMB_X33_Y1_N12
+C1L51 = C1_Cont[16] & (C1L49 $ GND) # !C1_Cont[16] & !C1L49 & VCC;
+
+--C1L52 is Reset_Delay:r0|Cont[16]~253 at LCCOMB_X33_Y1_N12
+C1L52 = CARRY(C1_Cont[16] & !C1L49);
+
+
+--C1L54 is Reset_Delay:r0|Cont[17]~254 at LCCOMB_X33_Y1_N14
+C1L54 = C1_Cont[17] & !C1L52 # !C1_Cont[17] & (C1L52 # GND);
+
+--C1L55 is Reset_Delay:r0|Cont[17]~255 at LCCOMB_X33_Y1_N14
+C1L55 = CARRY(!C1L52 # !C1_Cont[17]);
+
+
+--C1L57 is Reset_Delay:r0|Cont[18]~256 at LCCOMB_X33_Y1_N16
+C1L57 = C1_Cont[18] & (C1L55 $ GND) # !C1_Cont[18] & !C1L55 & VCC;
+
+--C1L58 is Reset_Delay:r0|Cont[18]~257 at LCCOMB_X33_Y1_N16
+C1L58 = CARRY(C1_Cont[18] & !C1L55);
+
+
+--C1L60 is Reset_Delay:r0|Cont[19]~258 at LCCOMB_X33_Y1_N18
+C1L60 = C1L58 $ C1_Cont[19];
+
+
+--EXT_CLOCK is EXT_CLOCK at PIN_P26
+--operation mode is input
+
+EXT_CLOCK = INPUT();
+
+
+--KEY[0] is KEY[0] at PIN_G26
+--operation mode is input
+
+KEY[0] = INPUT();
+
+
+--KEY[3] is KEY[3] at PIN_W26
+--operation mode is input
+
+KEY[3] = INPUT();
+
+
+--SW[16] is SW[16] at PIN_V1
+--operation mode is input
+
+SW[16] = INPUT();
+
+
+--SW[17] is SW[17] at PIN_V2
+--operation mode is input
+
+SW[17] = INPUT();
+
+
+--UART_RXD is UART_RXD at PIN_C25
+--operation mode is input
+
+UART_RXD = INPUT();
+
+
+--IRDA_RXD is IRDA_RXD at PIN_AE25
+--operation mode is input
+
+IRDA_RXD = INPUT();
+
+
+--OTG_INT0 is OTG_INT0 at PIN_B3
+--operation mode is input
+
+OTG_INT0 = INPUT();
+
+
+--OTG_INT1 is OTG_INT1 at PIN_C3
+--operation mode is input
+
+OTG_INT1 = INPUT();
+
+
+--OTG_DREQ0 is OTG_DREQ0 at PIN_F6
+--operation mode is input
+
+OTG_DREQ0 = INPUT();
+
+
+--OTG_DREQ1 is OTG_DREQ1 at PIN_E5
+--operation mode is input
+
+OTG_DREQ1 = INPUT();
+
+
+--TDI is TDI at PIN_B14
+--operation mode is input
+
+TDI = INPUT();
+
+
+--TCK is TCK at PIN_D14
+--operation mode is input
+
+TCK = INPUT();
+
+
+--TCS is TCS at PIN_A14
+--operation mode is input
+
+TCS = INPUT();
+
+
+--PS2_DAT is PS2_DAT at PIN_C24
+--operation mode is input
+
+PS2_DAT = INPUT();
+
+
+--PS2_CLK is PS2_CLK at PIN_D26
+--operation mode is input
+
+PS2_CLK = INPUT();
+
+
+--ENET_INT is ENET_INT at PIN_B21
+--operation mode is input
+
+ENET_INT = INPUT();
+
+
+--AUD_ADCDAT is AUD_ADCDAT at PIN_B5
+--operation mode is input
+
+AUD_ADCDAT = INPUT();
+
+
+--TD_DATA[0] is TD_DATA[0] at PIN_J9
+--operation mode is input
+
+TD_DATA[0] = INPUT();
+
+
+--TD_DATA[1] is TD_DATA[1] at PIN_E8
+--operation mode is input
+
+TD_DATA[1] = INPUT();
+
+
+--TD_DATA[2] is TD_DATA[2] at PIN_H8
+--operation mode is input
+
+TD_DATA[2] = INPUT();
+
+
+--TD_DATA[3] is TD_DATA[3] at PIN_H10
+--operation mode is input
+
+TD_DATA[3] = INPUT();
+
+
+--TD_DATA[4] is TD_DATA[4] at PIN_G9
+--operation mode is input
+
+TD_DATA[4] = INPUT();
+
+
+--TD_DATA[5] is TD_DATA[5] at PIN_F9
+--operation mode is input
+
+TD_DATA[5] = INPUT();
+
+
+--TD_DATA[6] is TD_DATA[6] at PIN_D7
+--operation mode is input
+
+TD_DATA[6] = INPUT();
+
+
+--TD_DATA[7] is TD_DATA[7] at PIN_C7
+--operation mode is input
+
+TD_DATA[7] = INPUT();
+
+
+--TD_HS is TD_HS at PIN_D5
+--operation mode is input
+
+TD_HS = INPUT();
+
+
+--TD_VS is TD_VS at PIN_K9
+--operation mode is input
+
+TD_VS = INPUT();
+
+
+--KEY[1] is KEY[1] at PIN_N23
+--operation mode is input
+
+KEY[1] = INPUT();
+
+
+--CLOCK_27 is CLOCK_27 at PIN_D13
+--operation mode is input
+
+CLOCK_27 = INPUT();
+
+
+--CLOCK_50 is CLOCK_50 at PIN_N2
+--operation mode is input
+
+CLOCK_50 = INPUT();
+
+
+--SW[0] is SW[0] at PIN_N25
+--operation mode is input
+
+SW[0] = INPUT();
+
+
+--KEY[2] is KEY[2] at PIN_P23
+--operation mode is input
+
+KEY[2] = INPUT();
+
+
+--SW[1] is SW[1] at PIN_N26
+--operation mode is input
+
+SW[1] = INPUT();
+
+
+--SW[2] is SW[2] at PIN_P25
+--operation mode is input
+
+SW[2] = INPUT();
+
+
+--SW[3] is SW[3] at PIN_AE14
+--operation mode is input
+
+SW[3] = INPUT();
+
+
+--SW[4] is SW[4] at PIN_AF14
+--operation mode is input
+
+SW[4] = INPUT();
+
+
+--SW[5] is SW[5] at PIN_AD13
+--operation mode is input
+
+SW[5] = INPUT();
+
+
+--SW[6] is SW[6] at PIN_AC13
+--operation mode is input
+
+SW[6] = INPUT();
+
+
+--SW[7] is SW[7] at PIN_C13
+--operation mode is input
+
+SW[7] = INPUT();
+
+
+--SW[8] is SW[8] at PIN_B13
+--operation mode is input
+
+SW[8] = INPUT();
+
+
+--SW[9] is SW[9] at PIN_A13
+--operation mode is input
+
+SW[9] = INPUT();
+
+
+--SW[10] is SW[10] at PIN_N1
+--operation mode is input
+
+SW[10] = INPUT();
+
+
+--SW[11] is SW[11] at PIN_P1
+--operation mode is input
+
+SW[11] = INPUT();
+
+
+--SW[12] is SW[12] at PIN_P2
+--operation mode is input
+
+SW[12] = INPUT();
+
+
+--SW[13] is SW[13] at PIN_T7
+--operation mode is input
+
+SW[13] = INPUT();
+
+
+--SW[14] is SW[14] at PIN_U3
+--operation mode is input
+
+SW[14] = INPUT();
+
+
+--SW[15] is SW[15] at PIN_U4
+--operation mode is input
+
+SW[15] = INPUT();
+
+
+--HEX0[0] is HEX0[0] at PIN_AF10
+--operation mode is output
+
+HEX0[0] = OUTPUT(GND);
+
+
+--HEX0[1] is HEX0[1] at PIN_AB12
+--operation mode is output
+
+HEX0[1] = OUTPUT(GND);
+
+
+--HEX0[2] is HEX0[2] at PIN_AC12
+--operation mode is output
+
+HEX0[2] = OUTPUT(GND);
+
+
+--HEX0[3] is HEX0[3] at PIN_AD11
+--operation mode is output
+
+HEX0[3] = OUTPUT(GND);
+
+
+--HEX0[4] is HEX0[4] at PIN_AE11
+--operation mode is output
+
+HEX0[4] = OUTPUT(GND);
+
+
+--HEX0[5] is HEX0[5] at PIN_V14
+--operation mode is output
+
+HEX0[5] = OUTPUT(GND);
+
+
+--HEX0[6] is HEX0[6] at PIN_V13
+--operation mode is output
+
+HEX0[6] = OUTPUT(GND);
+
+
+--HEX1[0] is HEX1[0] at PIN_V20
+--operation mode is output
+
+HEX1[0] = OUTPUT(GND);
+
+
+--HEX1[1] is HEX1[1] at PIN_V21
+--operation mode is output
+
+HEX1[1] = OUTPUT(GND);
+
+
+--HEX1[2] is HEX1[2] at PIN_W21
+--operation mode is output
+
+HEX1[2] = OUTPUT(GND);
+
+
+--HEX1[3] is HEX1[3] at PIN_Y22
+--operation mode is output
+
+HEX1[3] = OUTPUT(GND);
+
+
+--HEX1[4] is HEX1[4] at PIN_AA24
+--operation mode is output
+
+HEX1[4] = OUTPUT(GND);
+
+
+--HEX1[5] is HEX1[5] at PIN_AA23
+--operation mode is output
+
+HEX1[5] = OUTPUT(GND);
+
+
+--HEX1[6] is HEX1[6] at PIN_AB24
+--operation mode is output
+
+HEX1[6] = OUTPUT(GND);
+
+
+--HEX2[0] is HEX2[0] at PIN_AB23
+--operation mode is output
+
+HEX2[0] = OUTPUT(GND);
+
+
+--HEX2[1] is HEX2[1] at PIN_V22
+--operation mode is output
+
+HEX2[1] = OUTPUT(GND);
+
+
+--HEX2[2] is HEX2[2] at PIN_AC25
+--operation mode is output
+
+HEX2[2] = OUTPUT(GND);
+
+
+--HEX2[3] is HEX2[3] at PIN_AC26
+--operation mode is output
+
+HEX2[3] = OUTPUT(GND);
+
+
+--HEX2[4] is HEX2[4] at PIN_AB26
+--operation mode is output
+
+HEX2[4] = OUTPUT(GND);
+
+
+--HEX2[5] is HEX2[5] at PIN_AB25
+--operation mode is output
+
+HEX2[5] = OUTPUT(GND);
+
+
+--HEX2[6] is HEX2[6] at PIN_Y24
+--operation mode is output
+
+HEX2[6] = OUTPUT(GND);
+
+
+--HEX3[0] is HEX3[0] at PIN_Y23
+--operation mode is output
+
+HEX3[0] = OUTPUT(GND);
+
+
+--HEX3[1] is HEX3[1] at PIN_AA25
+--operation mode is output
+
+HEX3[1] = OUTPUT(GND);
+
+
+--HEX3[2] is HEX3[2] at PIN_AA26
+--operation mode is output
+
+HEX3[2] = OUTPUT(GND);
+
+
+--HEX3[3] is HEX3[3] at PIN_Y26
+--operation mode is output
+
+HEX3[3] = OUTPUT(GND);
+
+
+--HEX3[4] is HEX3[4] at PIN_Y25
+--operation mode is output
+
+HEX3[4] = OUTPUT(GND);
+
+
+--HEX3[5] is HEX3[5] at PIN_U22
+--operation mode is output
+
+HEX3[5] = OUTPUT(GND);
+
+
+--HEX3[6] is HEX3[6] at PIN_W24
+--operation mode is output
+
+HEX3[6] = OUTPUT(GND);
+
+
+--HEX4[0] is HEX4[0] at PIN_U9
+--operation mode is output
+
+HEX4[0] = OUTPUT(GND);
+
+
+--HEX4[1] is HEX4[1] at PIN_U1
+--operation mode is output
+
+HEX4[1] = OUTPUT(GND);
+
+
+--HEX4[2] is HEX4[2] at PIN_U2
+--operation mode is output
+
+HEX4[2] = OUTPUT(GND);
+
+
+--HEX4[3] is HEX4[3] at PIN_T4
+--operation mode is output
+
+HEX4[3] = OUTPUT(GND);
+
+
+--HEX4[4] is HEX4[4] at PIN_R7
+--operation mode is output
+
+HEX4[4] = OUTPUT(GND);
+
+
+--HEX4[5] is HEX4[5] at PIN_R6
+--operation mode is output
+
+HEX4[5] = OUTPUT(GND);
+
+
+--HEX4[6] is HEX4[6] at PIN_T3
+--operation mode is output
+
+HEX4[6] = OUTPUT(GND);
+
+
+--HEX5[0] is HEX5[0] at PIN_T2
+--operation mode is output
+
+HEX5[0] = OUTPUT(GND);
+
+
+--HEX5[1] is HEX5[1] at PIN_P6
+--operation mode is output
+
+HEX5[1] = OUTPUT(GND);
+
+
+--HEX5[2] is HEX5[2] at PIN_P7
+--operation mode is output
+
+HEX5[2] = OUTPUT(GND);
+
+
+--HEX5[3] is HEX5[3] at PIN_T9
+--operation mode is output
+
+HEX5[3] = OUTPUT(GND);
+
+
+--HEX5[4] is HEX5[4] at PIN_R5
+--operation mode is output
+
+HEX5[4] = OUTPUT(GND);
+
+
+--HEX5[5] is HEX5[5] at PIN_R4
+--operation mode is output
+
+HEX5[5] = OUTPUT(GND);
+
+
+--HEX5[6] is HEX5[6] at PIN_R3
+--operation mode is output
+
+HEX5[6] = OUTPUT(GND);
+
+
+--HEX6[0] is HEX6[0] at PIN_R2
+--operation mode is output
+
+HEX6[0] = OUTPUT(GND);
+
+
+--HEX6[1] is HEX6[1] at PIN_P4
+--operation mode is output
+
+HEX6[1] = OUTPUT(GND);
+
+
+--HEX6[2] is HEX6[2] at PIN_P3
+--operation mode is output
+
+HEX6[2] = OUTPUT(GND);
+
+
+--HEX6[3] is HEX6[3] at PIN_M2
+--operation mode is output
+
+HEX6[3] = OUTPUT(GND);
+
+
+--HEX6[4] is HEX6[4] at PIN_M3
+--operation mode is output
+
+HEX6[4] = OUTPUT(GND);
+
+
+--HEX6[5] is HEX6[5] at PIN_M5
+--operation mode is output
+
+HEX6[5] = OUTPUT(GND);
+
+
+--HEX6[6] is HEX6[6] at PIN_M4
+--operation mode is output
+
+HEX6[6] = OUTPUT(GND);
+
+
+--HEX7[0] is HEX7[0] at PIN_L3
+--operation mode is output
+
+HEX7[0] = OUTPUT(GND);
+
+
+--HEX7[1] is HEX7[1] at PIN_L2
+--operation mode is output
+
+HEX7[1] = OUTPUT(GND);
+
+
+--HEX7[2] is HEX7[2] at PIN_L9
+--operation mode is output
+
+HEX7[2] = OUTPUT(GND);
+
+
+--HEX7[3] is HEX7[3] at PIN_L6
+--operation mode is output
+
+HEX7[3] = OUTPUT(GND);
+
+
+--HEX7[4] is HEX7[4] at PIN_L7
+--operation mode is output
+
+HEX7[4] = OUTPUT(GND);
+
+
+--HEX7[5] is HEX7[5] at PIN_P9
+--operation mode is output
+
+HEX7[5] = OUTPUT(GND);
+
+
+--HEX7[6] is HEX7[6] at PIN_N9
+--operation mode is output
+
+HEX7[6] = OUTPUT(GND);
+
+
+--LEDG[0] is LEDG[0] at PIN_AE22
+--operation mode is output
+
+LEDG[0] = OUTPUT(GND);
+
+
+--LEDG[1] is LEDG[1] at PIN_AF22
+--operation mode is output
+
+LEDG[1] = OUTPUT(GND);
+
+
+--LEDG[2] is LEDG[2] at PIN_W19
+--operation mode is output
+
+LEDG[2] = OUTPUT(GND);
+
+
+--LEDG[3] is LEDG[3] at PIN_V18
+--operation mode is output
+
+LEDG[3] = OUTPUT(GND);
+
+
+--LEDG[4] is LEDG[4] at PIN_U18
+--operation mode is output
+
+LEDG[4] = OUTPUT(GND);
+
+
+--LEDG[5] is LEDG[5] at PIN_U17
+--operation mode is output
+
+LEDG[5] = OUTPUT(GND);
+
+
+--LEDG[6] is LEDG[6] at PIN_AA20
+--operation mode is output
+
+LEDG[6] = OUTPUT(GND);
+
+
+--LEDG[7] is LEDG[7] at PIN_Y18
+--operation mode is output
+
+LEDG[7] = OUTPUT(GND);
+
+
+--LEDG[8] is LEDG[8] at PIN_Y12
+--operation mode is output
+
+LEDG[8] = OUTPUT(GND);
+
+
+--LEDR[0] is LEDR[0] at PIN_AE23
+--operation mode is output
+
+LEDR[0] = OUTPUT(GND);
+
+
+--LEDR[1] is LEDR[1] at PIN_AF23
+--operation mode is output
+
+LEDR[1] = OUTPUT(GND);
+
+
+--LEDR[2] is LEDR[2] at PIN_AB21
+--operation mode is output
+
+LEDR[2] = OUTPUT(GND);
+
+
+--LEDR[3] is LEDR[3] at PIN_AC22
+--operation mode is output
+
+LEDR[3] = OUTPUT(GND);
+
+
+--LEDR[4] is LEDR[4] at PIN_AD22
+--operation mode is output
+
+LEDR[4] = OUTPUT(GND);
+
+
+--LEDR[5] is LEDR[5] at PIN_AD23
+--operation mode is output
+
+LEDR[5] = OUTPUT(GND);
+
+
+--LEDR[6] is LEDR[6] at PIN_AD21
+--operation mode is output
+
+LEDR[6] = OUTPUT(GND);
+
+
+--LEDR[7] is LEDR[7] at PIN_AC21
+--operation mode is output
+
+LEDR[7] = OUTPUT(GND);
+
+
+--LEDR[8] is LEDR[8] at PIN_AA14
+--operation mode is output
+
+LEDR[8] = OUTPUT(GND);
+
+
+--LEDR[9] is LEDR[9] at PIN_Y13
+--operation mode is output
+
+LEDR[9] = OUTPUT(GND);
+
+
+--LEDR[10] is LEDR[10] at PIN_AA13
+--operation mode is output
+
+LEDR[10] = OUTPUT(GND);
+
+
+--LEDR[11] is LEDR[11] at PIN_AC14
+--operation mode is output
+
+LEDR[11] = OUTPUT(GND);
+
+
+--LEDR[12] is LEDR[12] at PIN_AD15
+--operation mode is output
+
+LEDR[12] = OUTPUT(GND);
+
+
+--LEDR[13] is LEDR[13] at PIN_AE15
+--operation mode is output
+
+LEDR[13] = OUTPUT(GND);
+
+
+--LEDR[14] is LEDR[14] at PIN_AF13
+--operation mode is output
+
+LEDR[14] = OUTPUT(GND);
+
+
+--LEDR[15] is LEDR[15] at PIN_AE13
+--operation mode is output
+
+LEDR[15] = OUTPUT(GND);
+
+
+--LEDR[16] is LEDR[16] at PIN_AE12
+--operation mode is output
+
+LEDR[16] = OUTPUT(GND);
+
+
+--LEDR[17] is LEDR[17] at PIN_AD12
+--operation mode is output
+
+LEDR[17] = OUTPUT(GND);
+
+
+--UART_TXD is UART_TXD at PIN_B25
+--operation mode is output
+
+UART_TXD = OUTPUT(GND);
+
+
+--IRDA_TXD is IRDA_TXD at PIN_AE24
+--operation mode is output
+
+IRDA_TXD = OUTPUT(GND);
+
+
+--DRAM_ADDR[0] is DRAM_ADDR[0] at PIN_T6
+--operation mode is output
+
+DRAM_ADDR[0] = OUTPUT(GND);
+
+
+--DRAM_ADDR[1] is DRAM_ADDR[1] at PIN_V4
+--operation mode is output
+
+DRAM_ADDR[1] = OUTPUT(GND);
+
+
+--DRAM_ADDR[2] is DRAM_ADDR[2] at PIN_V3
+--operation mode is output
+
+DRAM_ADDR[2] = OUTPUT(GND);
+
+
+--DRAM_ADDR[3] is DRAM_ADDR[3] at PIN_W2
+--operation mode is output
+
+DRAM_ADDR[3] = OUTPUT(GND);
+
+
+--DRAM_ADDR[4] is DRAM_ADDR[4] at PIN_W1
+--operation mode is output
+
+DRAM_ADDR[4] = OUTPUT(GND);
+
+
+--DRAM_ADDR[5] is DRAM_ADDR[5] at PIN_U6
+--operation mode is output
+
+DRAM_ADDR[5] = OUTPUT(GND);
+
+
+--DRAM_ADDR[6] is DRAM_ADDR[6] at PIN_U7
+--operation mode is output
+
+DRAM_ADDR[6] = OUTPUT(GND);
+
+
+--DRAM_ADDR[7] is DRAM_ADDR[7] at PIN_U5
+--operation mode is output
+
+DRAM_ADDR[7] = OUTPUT(GND);
+
+
+--DRAM_ADDR[8] is DRAM_ADDR[8] at PIN_W4
+--operation mode is output
+
+DRAM_ADDR[8] = OUTPUT(GND);
+
+
+--DRAM_ADDR[9] is DRAM_ADDR[9] at PIN_W3
+--operation mode is output
+
+DRAM_ADDR[9] = OUTPUT(GND);
+
+
+--DRAM_ADDR[10] is DRAM_ADDR[10] at PIN_Y1
+--operation mode is output
+
+DRAM_ADDR[10] = OUTPUT(GND);
+
+
+--DRAM_ADDR[11] is DRAM_ADDR[11] at PIN_V5
+--operation mode is output
+
+DRAM_ADDR[11] = OUTPUT(GND);
+
+
+--DRAM_LDQM is DRAM_LDQM at PIN_AD2
+--operation mode is output
+
+DRAM_LDQM = OUTPUT(GND);
+
+
+--DRAM_UDQM is DRAM_UDQM at PIN_Y5
+--operation mode is output
+
+DRAM_UDQM = OUTPUT(GND);
+
+
+--DRAM_WE_N is DRAM_WE_N at PIN_AD3
+--operation mode is output
+
+DRAM_WE_N = OUTPUT(GND);
+
+
+--DRAM_CAS_N is DRAM_CAS_N at PIN_AB3
+--operation mode is output
+
+DRAM_CAS_N = OUTPUT(GND);
+
+
+--DRAM_RAS_N is DRAM_RAS_N at PIN_AB4
+--operation mode is output
+
+DRAM_RAS_N = OUTPUT(GND);
+
+
+--DRAM_CS_N is DRAM_CS_N at PIN_AC3
+--operation mode is output
+
+DRAM_CS_N = OUTPUT(GND);
+
+
+--DRAM_BA_0 is DRAM_BA_0 at PIN_AE2
+--operation mode is output
+
+DRAM_BA_0 = OUTPUT(GND);
+
+
+--DRAM_BA_1 is DRAM_BA_1 at PIN_AE3
+--operation mode is output
+
+DRAM_BA_1 = OUTPUT(GND);
+
+
+--DRAM_CLK is DRAM_CLK at PIN_AA7
+--operation mode is output
+
+DRAM_CLK = OUTPUT(GND);
+
+
+--DRAM_CKE is DRAM_CKE at PIN_AA6
+--operation mode is output
+
+DRAM_CKE = OUTPUT(GND);
+
+
+--FL_ADDR[0] is FL_ADDR[0] at PIN_AC18
+--operation mode is output
+
+FL_ADDR[0] = OUTPUT(GND);
+
+
+--FL_ADDR[1] is FL_ADDR[1] at PIN_AB18
+--operation mode is output
+
+FL_ADDR[1] = OUTPUT(GND);
+
+
+--FL_ADDR[2] is FL_ADDR[2] at PIN_AE19
+--operation mode is output
+
+FL_ADDR[2] = OUTPUT(GND);
+
+
+--FL_ADDR[3] is FL_ADDR[3] at PIN_AF19
+--operation mode is output
+
+FL_ADDR[3] = OUTPUT(GND);
+
+
+--FL_ADDR[4] is FL_ADDR[4] at PIN_AE18
+--operation mode is output
+
+FL_ADDR[4] = OUTPUT(GND);
+
+
+--FL_ADDR[5] is FL_ADDR[5] at PIN_AF18
+--operation mode is output
+
+FL_ADDR[5] = OUTPUT(GND);
+
+
+--FL_ADDR[6] is FL_ADDR[6] at PIN_Y16
+--operation mode is output
+
+FL_ADDR[6] = OUTPUT(GND);
+
+
+--FL_ADDR[7] is FL_ADDR[7] at PIN_AA16
+--operation mode is output
+
+FL_ADDR[7] = OUTPUT(GND);
+
+
+--FL_ADDR[8] is FL_ADDR[8] at PIN_AD17
+--operation mode is output
+
+FL_ADDR[8] = OUTPUT(GND);
+
+
+--FL_ADDR[9] is FL_ADDR[9] at PIN_AC17
+--operation mode is output
+
+FL_ADDR[9] = OUTPUT(GND);
+
+
+--FL_ADDR[10] is FL_ADDR[10] at PIN_AE17
+--operation mode is output
+
+FL_ADDR[10] = OUTPUT(GND);
+
+
+--FL_ADDR[11] is FL_ADDR[11] at PIN_AF17
+--operation mode is output
+
+FL_ADDR[11] = OUTPUT(GND);
+
+
+--FL_ADDR[12] is FL_ADDR[12] at PIN_W16
+--operation mode is output
+
+FL_ADDR[12] = OUTPUT(GND);
+
+
+--FL_ADDR[13] is FL_ADDR[13] at PIN_W15
+--operation mode is output
+
+FL_ADDR[13] = OUTPUT(GND);
+
+
+--FL_ADDR[14] is FL_ADDR[14] at PIN_AC16
+--operation mode is output
+
+FL_ADDR[14] = OUTPUT(GND);
+
+
+--FL_ADDR[15] is FL_ADDR[15] at PIN_AD16
+--operation mode is output
+
+FL_ADDR[15] = OUTPUT(GND);
+
+
+--FL_ADDR[16] is FL_ADDR[16] at PIN_AE16
+--operation mode is output
+
+FL_ADDR[16] = OUTPUT(GND);
+
+
+--FL_ADDR[17] is FL_ADDR[17] at PIN_AC15
+--operation mode is output
+
+FL_ADDR[17] = OUTPUT(GND);
+
+
+--FL_ADDR[18] is FL_ADDR[18] at PIN_AB15
+--operation mode is output
+
+FL_ADDR[18] = OUTPUT(GND);
+
+
+--FL_ADDR[19] is FL_ADDR[19] at PIN_AA15
+--operation mode is output
+
+FL_ADDR[19] = OUTPUT(GND);
+
+
+--FL_ADDR[20] is FL_ADDR[20] at PIN_Y15
+--operation mode is output
+
+FL_ADDR[20] = OUTPUT(GND);
+
+
+--FL_ADDR[21] is FL_ADDR[21] at PIN_Y14
+--operation mode is output
+
+FL_ADDR[21] = OUTPUT(GND);
+
+
+--FL_WE_N is FL_WE_N at PIN_AA17
+--operation mode is output
+
+FL_WE_N = OUTPUT(GND);
+
+
+--FL_RST_N is FL_RST_N at PIN_AA18
+--operation mode is output
+
+FL_RST_N = OUTPUT(GND);
+
+
+--FL_OE_N is FL_OE_N at PIN_W17
+--operation mode is output
+
+FL_OE_N = OUTPUT(GND);
+
+
+--FL_CE_N is FL_CE_N at PIN_V17
+--operation mode is output
+
+FL_CE_N = OUTPUT(GND);
+
+
+--SRAM_ADDR[0] is SRAM_ADDR[0] at PIN_AE4
+--operation mode is output
+
+SRAM_ADDR[0] = OUTPUT(D1_oCoord_Y[1]);
+
+
+--SRAM_ADDR[1] is SRAM_ADDR[1] at PIN_AF4
+--operation mode is output
+
+SRAM_ADDR[1] = OUTPUT(D1_oCoord_Y[2]);
+
+
+--SRAM_ADDR[2] is SRAM_ADDR[2] at PIN_AC5
+--operation mode is output
+
+SRAM_ADDR[2] = OUTPUT(D1_oCoord_Y[3]);
+
+
+--SRAM_ADDR[3] is SRAM_ADDR[3] at PIN_AC6
+--operation mode is output
+
+SRAM_ADDR[3] = OUTPUT(D1_oCoord_Y[4]);
+
+
+--SRAM_ADDR[4] is SRAM_ADDR[4] at PIN_AD4
+--operation mode is output
+
+SRAM_ADDR[4] = OUTPUT(D1_oCoord_Y[5]);
+
+
+--SRAM_ADDR[5] is SRAM_ADDR[5] at PIN_AD5
+--operation mode is output
+
+SRAM_ADDR[5] = OUTPUT(D1_oCoord_Y[6]);
+
+
+--SRAM_ADDR[6] is SRAM_ADDR[6] at PIN_AE5
+--operation mode is output
+
+SRAM_ADDR[6] = OUTPUT(D1_oCoord_Y[7]);
+
+
+--SRAM_ADDR[7] is SRAM_ADDR[7] at PIN_AF5
+--operation mode is output
+
+SRAM_ADDR[7] = OUTPUT(D1_oCoord_Y[8]);
+
+
+--SRAM_ADDR[8] is SRAM_ADDR[8] at PIN_AD6
+--operation mode is output
+
+SRAM_ADDR[8] = OUTPUT(D1_oCoord_Y[9]);
+
+
+--SRAM_ADDR[9] is SRAM_ADDR[9] at PIN_AD7
+--operation mode is output
+
+SRAM_ADDR[9] = OUTPUT(D1_oCoord_X[1]);
+
+
+--SRAM_ADDR[10] is SRAM_ADDR[10] at PIN_V10
+--operation mode is output
+
+SRAM_ADDR[10] = OUTPUT(D1_oCoord_X[2]);
+
+
+--SRAM_ADDR[11] is SRAM_ADDR[11] at PIN_V9
+--operation mode is output
+
+SRAM_ADDR[11] = OUTPUT(D1_oCoord_X[3]);
+
+
+--SRAM_ADDR[12] is SRAM_ADDR[12] at PIN_AC7
+--operation mode is output
+
+SRAM_ADDR[12] = OUTPUT(D1_oCoord_X[4]);
+
+
+--SRAM_ADDR[13] is SRAM_ADDR[13] at PIN_W8
+--operation mode is output
+
+SRAM_ADDR[13] = OUTPUT(D1_oCoord_X[5]);
+
+
+--SRAM_ADDR[14] is SRAM_ADDR[14] at PIN_W10
+--operation mode is output
+
+SRAM_ADDR[14] = OUTPUT(D1_oCoord_X[6]);
+
+
+--SRAM_ADDR[15] is SRAM_ADDR[15] at PIN_Y10
+--operation mode is output
+
+SRAM_ADDR[15] = OUTPUT(D1_oCoord_X[7]);
+
+
+--SRAM_ADDR[16] is SRAM_ADDR[16] at PIN_AB8
+--operation mode is output
+
+SRAM_ADDR[16] = OUTPUT(D1_oCoord_X[8]);
+
+
+--SRAM_ADDR[17] is SRAM_ADDR[17] at PIN_AC8
+--operation mode is output
+
+SRAM_ADDR[17] = OUTPUT(D1_oCoord_X[9]);
+
+
+--SRAM_UB_N is SRAM_UB_N at PIN_AF9
+--operation mode is output
+
+SRAM_UB_N = OUTPUT(GND);
+
+
+--SRAM_LB_N is SRAM_LB_N at PIN_AE9
+--operation mode is output
+
+SRAM_LB_N = OUTPUT(GND);
+
+
+--SRAM_WE_N is SRAM_WE_N at PIN_AE10
+--operation mode is output
+
+SRAM_WE_N = OUTPUT(KEY[1]);
+
+
+--SRAM_CE_N is SRAM_CE_N at PIN_AC11
+--operation mode is output
+
+SRAM_CE_N = OUTPUT(GND);
+
+
+--SRAM_OE_N is SRAM_OE_N at PIN_AD10
+--operation mode is output
+
+SRAM_OE_N = OUTPUT(GND);
+
+
+--OTG_ADDR[0] is OTG_ADDR[0] at PIN_K7
+--operation mode is output
+
+OTG_ADDR[0] = OUTPUT(GND);
+
+
+--OTG_ADDR[1] is OTG_ADDR[1] at PIN_F2
+--operation mode is output
+
+OTG_ADDR[1] = OUTPUT(GND);
+
+
+--OTG_CS_N is OTG_CS_N at PIN_F1
+--operation mode is output
+
+OTG_CS_N = OUTPUT(GND);
+
+
+--OTG_RD_N is OTG_RD_N at PIN_G2
+--operation mode is output
+
+OTG_RD_N = OUTPUT(GND);
+
+
+--OTG_WR_N is OTG_WR_N at PIN_G1
+--operation mode is output
+
+OTG_WR_N = OUTPUT(GND);
+
+
+--OTG_RST_N is OTG_RST_N at PIN_G5
+--operation mode is output
+
+OTG_RST_N = OUTPUT(GND);
+
+
+--OTG_FSPEED is OTG_FSPEED at PIN_F3
+--operation mode is output
+
+OTG_FSPEED = OUTPUT(GND);
+
+
+--OTG_LSPEED is OTG_LSPEED at PIN_G6
+--operation mode is output
+
+OTG_LSPEED = OUTPUT(GND);
+
+
+--OTG_DACK0_N is OTG_DACK0_N at PIN_C2
+--operation mode is output
+
+OTG_DACK0_N = OUTPUT(GND);
+
+
+--OTG_DACK1_N is OTG_DACK1_N at PIN_B2
+--operation mode is output
+
+OTG_DACK1_N = OUTPUT(GND);
+
+
+--LCD_ON is LCD_ON at PIN_L4
+--operation mode is output
+
+LCD_ON = OUTPUT(GND);
+
+
+--LCD_BLON is LCD_BLON at PIN_K2
+--operation mode is output
+
+LCD_BLON = OUTPUT(GND);
+
+
+--LCD_RW is LCD_RW at PIN_K4
+--operation mode is output
+
+LCD_RW = OUTPUT(GND);
+
+
+--LCD_EN is LCD_EN at PIN_K3
+--operation mode is output
+
+LCD_EN = OUTPUT(GND);
+
+
+--LCD_RS is LCD_RS at PIN_K1
+--operation mode is output
+
+LCD_RS = OUTPUT(GND);
+
+
+--SD_CLK is SD_CLK at PIN_AD25
+--operation mode is output
+
+SD_CLK = OUTPUT(GND);
+
+
+--TDO is TDO at PIN_F14
+--operation mode is output
+
+TDO = OUTPUT(GND);
+
+
+--I2C_SCLK is I2C_SCLK at PIN_A6
+--operation mode is output
+
+I2C_SCLK = OUTPUT(GND);
+
+
+--VGA_CLK is VGA_CLK at PIN_B8
+--operation mode is output
+
+VGA_CLK = OUTPUT(GLOBAL(E1L6));
+
+
+--VGA_HS is VGA_HS at PIN_A7
+--operation mode is output
+
+VGA_HS = OUTPUT(D1_oVGA_H_SYNC);
+
+
+--VGA_VS is VGA_VS at PIN_D8
+--operation mode is output
+
+VGA_VS = OUTPUT(D1_oVGA_V_SYNC);
+
+
+--VGA_BLANK is VGA_BLANK at PIN_D6
+--operation mode is output
+
+VGA_BLANK = OUTPUT(D1_oVGA_BLANK);
+
+
+--VGA_SYNC is VGA_SYNC at PIN_B7
+--operation mode is output
+
+VGA_SYNC = OUTPUT(GND);
+
+
+--VGA_R[0] is VGA_R[0] at PIN_C8
+--operation mode is output
+
+VGA_R[0] = OUTPUT(GND);
+
+
+--VGA_R[1] is VGA_R[1] at PIN_F10
+--operation mode is output
+
+VGA_R[1] = OUTPUT(GND);
+
+
+--VGA_R[2] is VGA_R[2] at PIN_G10
+--operation mode is output
+
+VGA_R[2] = OUTPUT(GND);
+
+
+--VGA_R[3] is VGA_R[3] at PIN_D9
+--operation mode is output
+
+VGA_R[3] = OUTPUT(GND);
+
+
+--VGA_R[4] is VGA_R[4] at PIN_C9
+--operation mode is output
+
+VGA_R[4] = OUTPUT(GND);
+
+
+--VGA_R[5] is VGA_R[5] at PIN_A8
+--operation mode is output
+
+VGA_R[5] = OUTPUT(GND);
+
+
+--VGA_R[6] is VGA_R[6] at PIN_H11
+--operation mode is output
+
+VGA_R[6] = OUTPUT(D1L156);
+
+
+--VGA_R[7] is VGA_R[7] at PIN_H12
+--operation mode is output
+
+VGA_R[7] = OUTPUT(D1L157);
+
+
+--VGA_R[8] is VGA_R[8] at PIN_F11
+--operation mode is output
+
+VGA_R[8] = OUTPUT(D1L158);
+
+
+--VGA_R[9] is VGA_R[9] at PIN_E10
+--operation mode is output
+
+VGA_R[9] = OUTPUT(D1L159);
+
+
+--VGA_G[0] is VGA_G[0] at PIN_B9
+--operation mode is output
+
+VGA_G[0] = OUTPUT(GND);
+
+
+--VGA_G[1] is VGA_G[1] at PIN_A9
+--operation mode is output
+
+VGA_G[1] = OUTPUT(GND);
+
+
+--VGA_G[2] is VGA_G[2] at PIN_C10
+--operation mode is output
+
+VGA_G[2] = OUTPUT(GND);
+
+
+--VGA_G[3] is VGA_G[3] at PIN_D10
+--operation mode is output
+
+VGA_G[3] = OUTPUT(GND);
+
+
+--VGA_G[4] is VGA_G[4] at PIN_B10
+--operation mode is output
+
+VGA_G[4] = OUTPUT(GND);
+
+
+--VGA_G[5] is VGA_G[5] at PIN_A10
+--operation mode is output
+
+VGA_G[5] = OUTPUT(GND);
+
+
+--VGA_G[6] is VGA_G[6] at PIN_G11
+--operation mode is output
+
+VGA_G[6] = OUTPUT(D1L151);
+
+
+--VGA_G[7] is VGA_G[7] at PIN_D11
+--operation mode is output
+
+VGA_G[7] = OUTPUT(D1L152);
+
+
+--VGA_G[8] is VGA_G[8] at PIN_E12
+--operation mode is output
+
+VGA_G[8] = OUTPUT(D1L153);
+
+
+--VGA_G[9] is VGA_G[9] at PIN_D12
+--operation mode is output
+
+VGA_G[9] = OUTPUT(D1L154);
+
+
+--VGA_B[0] is VGA_B[0] at PIN_J13
+--operation mode is output
+
+VGA_B[0] = OUTPUT(GND);
+
+
+--VGA_B[1] is VGA_B[1] at PIN_J14
+--operation mode is output
+
+VGA_B[1] = OUTPUT(GND);
+
+
+--VGA_B[2] is VGA_B[2] at PIN_F12
+--operation mode is output
+
+VGA_B[2] = OUTPUT(GND);
+
+
+--VGA_B[3] is VGA_B[3] at PIN_G12
+--operation mode is output
+
+VGA_B[3] = OUTPUT(GND);
+
+
+--VGA_B[4] is VGA_B[4] at PIN_J10
+--operation mode is output
+
+VGA_B[4] = OUTPUT(GND);
+
+
+--VGA_B[5] is VGA_B[5] at PIN_J11
+--operation mode is output
+
+VGA_B[5] = OUTPUT(GND);
+
+
+--VGA_B[6] is VGA_B[6] at PIN_C11
+--operation mode is output
+
+VGA_B[6] = OUTPUT(D1L147);
+
+
+--VGA_B[7] is VGA_B[7] at PIN_B11
+--operation mode is output
+
+VGA_B[7] = OUTPUT(D1L148);
+
+
+--VGA_B[8] is VGA_B[8] at PIN_C12
+--operation mode is output
+
+VGA_B[8] = OUTPUT(D1L149);
+
+
+--VGA_B[9] is VGA_B[9] at PIN_B12
+--operation mode is output
+
+VGA_B[9] = OUTPUT(D1L150);
+
+
+--ENET_CMD is ENET_CMD at PIN_A21
+--operation mode is output
+
+ENET_CMD = OUTPUT(GND);
+
+
+--ENET_CS_N is ENET_CS_N at PIN_A23
+--operation mode is output
+
+ENET_CS_N = OUTPUT(GND);
+
+
+--ENET_WR_N is ENET_WR_N at PIN_B22
+--operation mode is output
+
+ENET_WR_N = OUTPUT(GND);
+
+
+--ENET_RD_N is ENET_RD_N at PIN_A22
+--operation mode is output
+
+ENET_RD_N = OUTPUT(GND);
+
+
+--ENET_RST_N is ENET_RST_N at PIN_B23
+--operation mode is output
+
+ENET_RST_N = OUTPUT(GND);
+
+
+--ENET_CLK is ENET_CLK at PIN_B24
+--operation mode is output
+
+ENET_CLK = OUTPUT(GND);
+
+
+--AUD_ADCLRCK is AUD_ADCLRCK at PIN_C5
+--operation mode is output
+
+AUD_ADCLRCK = OUTPUT(A1L6);
+
+
+--AUD_DACDAT is AUD_DACDAT at PIN_A4
+--operation mode is output
+
+AUD_DACDAT = OUTPUT(GND);
+
+
+--AUD_XCK is AUD_XCK at PIN_A5
+--operation mode is output
+
+AUD_XCK = OUTPUT(GLOBAL(E1L4));
+
+
+--TD_RESET is TD_RESET at PIN_C4
+--operation mode is output
+
+TD_RESET = OUTPUT(VCC);
+
+
+--LCD_DATA[0] is LCD_DATA[0] at PIN_J1
+--operation mode is bidir
+
+LCD_DATA[0] = BIDIR(OPNDRN(VCC));
+
+
+--LCD_DATA[1] is LCD_DATA[1] at PIN_J2
+--operation mode is bidir
+
+LCD_DATA[1] = BIDIR(OPNDRN(VCC));
+
+
+--LCD_DATA[2] is LCD_DATA[2] at PIN_H1
+--operation mode is bidir
+
+LCD_DATA[2] = BIDIR(OPNDRN(VCC));
+
+
+--LCD_DATA[3] is LCD_DATA[3] at PIN_H2
+--operation mode is bidir
+
+LCD_DATA[3] = BIDIR(OPNDRN(VCC));
+
+
+--LCD_DATA[4] is LCD_DATA[4] at PIN_J4
+--operation mode is bidir
+
+LCD_DATA[4] = BIDIR(OPNDRN(VCC));
+
+
+--LCD_DATA[5] is LCD_DATA[5] at PIN_J3
+--operation mode is bidir
+
+LCD_DATA[5] = BIDIR(OPNDRN(VCC));
+
+
+--LCD_DATA[6] is LCD_DATA[6] at PIN_H4
+--operation mode is bidir
+
+LCD_DATA[6] = BIDIR(OPNDRN(VCC));
+
+
+--LCD_DATA[7] is LCD_DATA[7] at PIN_H3
+--operation mode is bidir
+
+LCD_DATA[7] = BIDIR(OPNDRN(VCC));
+
+
+--SD_DAT3 is SD_DAT3 at PIN_AC23
+--operation mode is bidir
+
+SD_DAT3 = BIDIR(OPNDRN(VCC));
+
+
+--SD_CMD is SD_CMD at PIN_Y21
+--operation mode is bidir
+
+SD_CMD = BIDIR(OPNDRN(VCC));
+
+
+--I2C_SDAT is I2C_SDAT at PIN_B6
+--operation mode is bidir
+
+I2C_SDAT = BIDIR(OPNDRN(VCC));
+
+
+--AUD_BCLK is AUD_BCLK at PIN_B4
+--operation mode is bidir
+
+AUD_BCLK = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[0] is DRAM_DQ[0] at PIN_V6
+--operation mode is bidir
+
+DRAM_DQ[0] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[1] is DRAM_DQ[1] at PIN_AA2
+--operation mode is bidir
+
+DRAM_DQ[1] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[2] is DRAM_DQ[2] at PIN_AA1
+--operation mode is bidir
+
+DRAM_DQ[2] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[3] is DRAM_DQ[3] at PIN_Y3
+--operation mode is bidir
+
+DRAM_DQ[3] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[4] is DRAM_DQ[4] at PIN_Y4
+--operation mode is bidir
+
+DRAM_DQ[4] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[5] is DRAM_DQ[5] at PIN_R8
+--operation mode is bidir
+
+DRAM_DQ[5] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[6] is DRAM_DQ[6] at PIN_T8
+--operation mode is bidir
+
+DRAM_DQ[6] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[7] is DRAM_DQ[7] at PIN_V7
+--operation mode is bidir
+
+DRAM_DQ[7] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[8] is DRAM_DQ[8] at PIN_W6
+--operation mode is bidir
+
+DRAM_DQ[8] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[9] is DRAM_DQ[9] at PIN_AB2
+--operation mode is bidir
+
+DRAM_DQ[9] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[10] is DRAM_DQ[10] at PIN_AB1
+--operation mode is bidir
+
+DRAM_DQ[10] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[11] is DRAM_DQ[11] at PIN_AA4
+--operation mode is bidir
+
+DRAM_DQ[11] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[12] is DRAM_DQ[12] at PIN_AA3
+--operation mode is bidir
+
+DRAM_DQ[12] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[13] is DRAM_DQ[13] at PIN_AC2
+--operation mode is bidir
+
+DRAM_DQ[13] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[14] is DRAM_DQ[14] at PIN_AC1
+--operation mode is bidir
+
+DRAM_DQ[14] = BIDIR(OPNDRN(VCC));
+
+
+--DRAM_DQ[15] is DRAM_DQ[15] at PIN_AA5
+--operation mode is bidir
+
+DRAM_DQ[15] = BIDIR(OPNDRN(VCC));
+
+
+--FL_DQ[0] is FL_DQ[0] at PIN_AD19
+--operation mode is bidir
+
+FL_DQ[0] = BIDIR(OPNDRN(VCC));
+
+
+--FL_DQ[1] is FL_DQ[1] at PIN_AC19
+--operation mode is bidir
+
+FL_DQ[1] = BIDIR(OPNDRN(VCC));
+
+
+--FL_DQ[2] is FL_DQ[2] at PIN_AF20
+--operation mode is bidir
+
+FL_DQ[2] = BIDIR(OPNDRN(VCC));
+
+
+--FL_DQ[3] is FL_DQ[3] at PIN_AE20
+--operation mode is bidir
+
+FL_DQ[3] = BIDIR(OPNDRN(VCC));
+
+
+--FL_DQ[4] is FL_DQ[4] at PIN_AB20
+--operation mode is bidir
+
+FL_DQ[4] = BIDIR(OPNDRN(VCC));
+
+
+--FL_DQ[5] is FL_DQ[5] at PIN_AC20
+--operation mode is bidir
+
+FL_DQ[5] = BIDIR(OPNDRN(VCC));
+
+
+--FL_DQ[6] is FL_DQ[6] at PIN_AF21
+--operation mode is bidir
+
+FL_DQ[6] = BIDIR(OPNDRN(VCC));
+
+
+--FL_DQ[7] is FL_DQ[7] at PIN_AE21
+--operation mode is bidir
+
+FL_DQ[7] = BIDIR(OPNDRN(VCC));
+
+
+--SRAM_DQ[0] is SRAM_DQ[0] at PIN_AD8
+--operation mode is bidir
+
+SRAM_DQ[0]_tri_out = TRI(A1L377, !KEY[1]);
+SRAM_DQ[0] = BIDIR(SRAM_DQ[0]_tri_out);
+
+
+--SRAM_DQ[1] is SRAM_DQ[1] at PIN_AE6
+--operation mode is bidir
+
+SRAM_DQ[1]_tri_out = TRI(A1L378, !KEY[1]);
+SRAM_DQ[1] = BIDIR(SRAM_DQ[1]_tri_out);
+
+
+--SRAM_DQ[2] is SRAM_DQ[2] at PIN_AF6
+--operation mode is bidir
+
+SRAM_DQ[2]_tri_out = TRI(A1L379, !KEY[1]);
+SRAM_DQ[2] = BIDIR(SRAM_DQ[2]_tri_out);
+
+
+--SRAM_DQ[3] is SRAM_DQ[3] at PIN_AA9
+--operation mode is bidir
+
+SRAM_DQ[3]_tri_out = TRI(A1L380, !KEY[1]);
+SRAM_DQ[3] = BIDIR(SRAM_DQ[3]_tri_out);
+
+
+--mVGA_B[6] is mVGA_B[6] at PIN_AA10
+--operation mode is bidir
+
+mVGA_B[6] = SRAM_DQ[4];
+
+--SRAM_DQ[4] is SRAM_DQ[4] at PIN_AA10
+--operation mode is bidir
+
+SRAM_DQ[4]_tri_out = TRI(A1L381, !KEY[1]);
+SRAM_DQ[4] = BIDIR(SRAM_DQ[4]_tri_out);
+
+
+--mVGA_B[7] is mVGA_B[7] at PIN_AB10
+--operation mode is bidir
+
+mVGA_B[7] = SRAM_DQ[5];
+
+--SRAM_DQ[5] is SRAM_DQ[5] at PIN_AB10
+--operation mode is bidir
+
+SRAM_DQ[5]_tri_out = TRI(A1L382, !KEY[1]);
+SRAM_DQ[5] = BIDIR(SRAM_DQ[5]_tri_out);
+
+
+--mVGA_B[8] is mVGA_B[8] at PIN_AA11
+--operation mode is bidir
+
+mVGA_B[8] = SRAM_DQ[6];
+
+--SRAM_DQ[6] is SRAM_DQ[6] at PIN_AA11
+--operation mode is bidir
+
+SRAM_DQ[6]_tri_out = TRI(A1L383, !KEY[1]);
+SRAM_DQ[6] = BIDIR(SRAM_DQ[6]_tri_out);
+
+
+--mVGA_B[9] is mVGA_B[9] at PIN_Y11
+--operation mode is bidir
+
+mVGA_B[9] = SRAM_DQ[7];
+
+--SRAM_DQ[7] is SRAM_DQ[7] at PIN_Y11
+--operation mode is bidir
+
+SRAM_DQ[7]_tri_out = TRI(A1L384, !KEY[1]);
+SRAM_DQ[7] = BIDIR(SRAM_DQ[7]_tri_out);
+
+
+--mVGA_G[6] is mVGA_G[6] at PIN_AE7
+--operation mode is bidir
+
+mVGA_G[6] = SRAM_DQ[8];
+
+--SRAM_DQ[8] is SRAM_DQ[8] at PIN_AE7
+--operation mode is bidir
+
+SRAM_DQ[8]_tri_out = TRI(A1L385, !KEY[1]);
+SRAM_DQ[8] = BIDIR(SRAM_DQ[8]_tri_out);
+
+
+--mVGA_G[7] is mVGA_G[7] at PIN_AF7
+--operation mode is bidir
+
+mVGA_G[7] = SRAM_DQ[9];
+
+--SRAM_DQ[9] is SRAM_DQ[9] at PIN_AF7
+--operation mode is bidir
+
+SRAM_DQ[9]_tri_out = TRI(A1L386, !KEY[1]);
+SRAM_DQ[9] = BIDIR(SRAM_DQ[9]_tri_out);
+
+
+--mVGA_G[8] is mVGA_G[8] at PIN_AE8
+--operation mode is bidir
+
+mVGA_G[8] = SRAM_DQ[10];
+
+--SRAM_DQ[10] is SRAM_DQ[10] at PIN_AE8
+--operation mode is bidir
+
+SRAM_DQ[10]_tri_out = TRI(A1L387, !KEY[1]);
+SRAM_DQ[10] = BIDIR(SRAM_DQ[10]_tri_out);
+
+
+--mVGA_G[9] is mVGA_G[9] at PIN_AF8
+--operation mode is bidir
+
+mVGA_G[9] = SRAM_DQ[11];
+
+--SRAM_DQ[11] is SRAM_DQ[11] at PIN_AF8
+--operation mode is bidir
+
+SRAM_DQ[11]_tri_out = TRI(A1L388, !KEY[1]);
+SRAM_DQ[11] = BIDIR(SRAM_DQ[11]_tri_out);
+
+
+--mVGA_R[6] is mVGA_R[6] at PIN_W11
+--operation mode is bidir
+
+mVGA_R[6] = SRAM_DQ[12];
+
+--SRAM_DQ[12] is SRAM_DQ[12] at PIN_W11
+--operation mode is bidir
+
+SRAM_DQ[12]_tri_out = TRI(A1L389, !KEY[1]);
+SRAM_DQ[12] = BIDIR(SRAM_DQ[12]_tri_out);
+
+
+--mVGA_R[7] is mVGA_R[7] at PIN_W12
+--operation mode is bidir
+
+mVGA_R[7] = SRAM_DQ[13];
+
+--SRAM_DQ[13] is SRAM_DQ[13] at PIN_W12
+--operation mode is bidir
+
+SRAM_DQ[13]_tri_out = TRI(A1L390, !KEY[1]);
+SRAM_DQ[13] = BIDIR(SRAM_DQ[13]_tri_out);
+
+
+--mVGA_R[8] is mVGA_R[8] at PIN_AC9
+--operation mode is bidir
+
+mVGA_R[8] = SRAM_DQ[14];
+
+--SRAM_DQ[14] is SRAM_DQ[14] at PIN_AC9
+--operation mode is bidir
+
+SRAM_DQ[14]_tri_out = TRI(A1L391, !KEY[1]);
+SRAM_DQ[14] = BIDIR(SRAM_DQ[14]_tri_out);
+
+
+--mVGA_R[9] is mVGA_R[9] at PIN_AC10
+--operation mode is bidir
+
+mVGA_R[9] = SRAM_DQ[15];
+
+--SRAM_DQ[15] is SRAM_DQ[15] at PIN_AC10
+--operation mode is bidir
+
+SRAM_DQ[15]_tri_out = TRI(A1L392, !KEY[1]);
+SRAM_DQ[15] = BIDIR(SRAM_DQ[15]_tri_out);
+
+
+--OTG_DATA[0] is OTG_DATA[0] at PIN_F4
+--operation mode is bidir
+
+OTG_DATA[0] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[1] is OTG_DATA[1] at PIN_D2
+--operation mode is bidir
+
+OTG_DATA[1] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[2] is OTG_DATA[2] at PIN_D1
+--operation mode is bidir
+
+OTG_DATA[2] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[3] is OTG_DATA[3] at PIN_F7
+--operation mode is bidir
+
+OTG_DATA[3] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[4] is OTG_DATA[4] at PIN_J5
+--operation mode is bidir
+
+OTG_DATA[4] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[5] is OTG_DATA[5] at PIN_J8
+--operation mode is bidir
+
+OTG_DATA[5] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[6] is OTG_DATA[6] at PIN_J7
+--operation mode is bidir
+
+OTG_DATA[6] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[7] is OTG_DATA[7] at PIN_H6
+--operation mode is bidir
+
+OTG_DATA[7] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[8] is OTG_DATA[8] at PIN_E2
+--operation mode is bidir
+
+OTG_DATA[8] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[9] is OTG_DATA[9] at PIN_E1
+--operation mode is bidir
+
+OTG_DATA[9] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[10] is OTG_DATA[10] at PIN_K6
+--operation mode is bidir
+
+OTG_DATA[10] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[11] is OTG_DATA[11] at PIN_K5
+--operation mode is bidir
+
+OTG_DATA[11] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[12] is OTG_DATA[12] at PIN_G4
+--operation mode is bidir
+
+OTG_DATA[12] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[13] is OTG_DATA[13] at PIN_G3
+--operation mode is bidir
+
+OTG_DATA[13] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[14] is OTG_DATA[14] at PIN_J6
+--operation mode is bidir
+
+OTG_DATA[14] = BIDIR(OPNDRN(VCC));
+
+
+--OTG_DATA[15] is OTG_DATA[15] at PIN_K8
+--operation mode is bidir
+
+OTG_DATA[15] = BIDIR(OPNDRN(VCC));
+
+
+--SD_DAT is SD_DAT at PIN_AD24
+--operation mode is bidir
+
+SD_DAT = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[0] is ENET_DATA[0] at PIN_D17
+--operation mode is bidir
+
+ENET_DATA[0] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[1] is ENET_DATA[1] at PIN_C17
+--operation mode is bidir
+
+ENET_DATA[1] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[2] is ENET_DATA[2] at PIN_B18
+--operation mode is bidir
+
+ENET_DATA[2] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[3] is ENET_DATA[3] at PIN_A18
+--operation mode is bidir
+
+ENET_DATA[3] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[4] is ENET_DATA[4] at PIN_B17
+--operation mode is bidir
+
+ENET_DATA[4] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[5] is ENET_DATA[5] at PIN_A17
+--operation mode is bidir
+
+ENET_DATA[5] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[6] is ENET_DATA[6] at PIN_B16
+--operation mode is bidir
+
+ENET_DATA[6] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[7] is ENET_DATA[7] at PIN_B15
+--operation mode is bidir
+
+ENET_DATA[7] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[8] is ENET_DATA[8] at PIN_B20
+--operation mode is bidir
+
+ENET_DATA[8] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[9] is ENET_DATA[9] at PIN_A20
+--operation mode is bidir
+
+ENET_DATA[9] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[10] is ENET_DATA[10] at PIN_C19
+--operation mode is bidir
+
+ENET_DATA[10] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[11] is ENET_DATA[11] at PIN_D19
+--operation mode is bidir
+
+ENET_DATA[11] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[12] is ENET_DATA[12] at PIN_B19
+--operation mode is bidir
+
+ENET_DATA[12] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[13] is ENET_DATA[13] at PIN_A19
+--operation mode is bidir
+
+ENET_DATA[13] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[14] is ENET_DATA[14] at PIN_E18
+--operation mode is bidir
+
+ENET_DATA[14] = BIDIR(OPNDRN(VCC));
+
+
+--ENET_DATA[15] is ENET_DATA[15] at PIN_D18
+--operation mode is bidir
+
+ENET_DATA[15] = BIDIR(OPNDRN(VCC));
+
+
+--A1L6 is AUD_DACLRCK~0 at PIN_C6
+--operation mode is bidir
+
+A1L6 = AUD_DACLRCK;
+
+--AUD_DACLRCK is AUD_DACLRCK at PIN_C6
+--operation mode is bidir
+
+AUD_DACLRCK = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[0] is GPIO_0[0] at PIN_D25
+--operation mode is bidir
+
+GPIO_0[0] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[1] is GPIO_0[1] at PIN_J22
+--operation mode is bidir
+
+GPIO_0[1] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[2] is GPIO_0[2] at PIN_E26
+--operation mode is bidir
+
+GPIO_0[2] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[3] is GPIO_0[3] at PIN_E25
+--operation mode is bidir
+
+GPIO_0[3] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[4] is GPIO_0[4] at PIN_F24
+--operation mode is bidir
+
+GPIO_0[4] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[5] is GPIO_0[5] at PIN_F23
+--operation mode is bidir
+
+GPIO_0[5] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[6] is GPIO_0[6] at PIN_J21
+--operation mode is bidir
+
+GPIO_0[6] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[7] is GPIO_0[7] at PIN_J20
+--operation mode is bidir
+
+GPIO_0[7] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[8] is GPIO_0[8] at PIN_F25
+--operation mode is bidir
+
+GPIO_0[8] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[9] is GPIO_0[9] at PIN_F26
+--operation mode is bidir
+
+GPIO_0[9] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[10] is GPIO_0[10] at PIN_N18
+--operation mode is bidir
+
+GPIO_0[10] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[11] is GPIO_0[11] at PIN_P18
+--operation mode is bidir
+
+GPIO_0[11] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[12] is GPIO_0[12] at PIN_G23
+--operation mode is bidir
+
+GPIO_0[12] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[13] is GPIO_0[13] at PIN_G24
+--operation mode is bidir
+
+GPIO_0[13] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[14] is GPIO_0[14] at PIN_K22
+--operation mode is bidir
+
+GPIO_0[14] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[15] is GPIO_0[15] at PIN_G25
+--operation mode is bidir
+
+GPIO_0[15] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[16] is GPIO_0[16] at PIN_H23
+--operation mode is bidir
+
+GPIO_0[16] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[17] is GPIO_0[17] at PIN_H24
+--operation mode is bidir
+
+GPIO_0[17] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[18] is GPIO_0[18] at PIN_J23
+--operation mode is bidir
+
+GPIO_0[18] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[19] is GPIO_0[19] at PIN_J24
+--operation mode is bidir
+
+GPIO_0[19] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[20] is GPIO_0[20] at PIN_H25
+--operation mode is bidir
+
+GPIO_0[20] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[21] is GPIO_0[21] at PIN_H26
+--operation mode is bidir
+
+GPIO_0[21] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[22] is GPIO_0[22] at PIN_H19
+--operation mode is bidir
+
+GPIO_0[22] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[23] is GPIO_0[23] at PIN_K18
+--operation mode is bidir
+
+GPIO_0[23] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[24] is GPIO_0[24] at PIN_K19
+--operation mode is bidir
+
+GPIO_0[24] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[25] is GPIO_0[25] at PIN_K21
+--operation mode is bidir
+
+GPIO_0[25] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[26] is GPIO_0[26] at PIN_K23
+--operation mode is bidir
+
+GPIO_0[26] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[27] is GPIO_0[27] at PIN_K24
+--operation mode is bidir
+
+GPIO_0[27] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[28] is GPIO_0[28] at PIN_L21
+--operation mode is bidir
+
+GPIO_0[28] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[29] is GPIO_0[29] at PIN_L20
+--operation mode is bidir
+
+GPIO_0[29] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[30] is GPIO_0[30] at PIN_J25
+--operation mode is bidir
+
+GPIO_0[30] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[31] is GPIO_0[31] at PIN_J26
+--operation mode is bidir
+
+GPIO_0[31] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[32] is GPIO_0[32] at PIN_L23
+--operation mode is bidir
+
+GPIO_0[32] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[33] is GPIO_0[33] at PIN_L24
+--operation mode is bidir
+
+GPIO_0[33] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[34] is GPIO_0[34] at PIN_L25
+--operation mode is bidir
+
+GPIO_0[34] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_0[35] is GPIO_0[35] at PIN_L19
+--operation mode is bidir
+
+GPIO_0[35] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[0] is GPIO_1[0] at PIN_K25
+--operation mode is bidir
+
+GPIO_1[0] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[1] is GPIO_1[1] at PIN_K26
+--operation mode is bidir
+
+GPIO_1[1] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[2] is GPIO_1[2] at PIN_M22
+--operation mode is bidir
+
+GPIO_1[2] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[3] is GPIO_1[3] at PIN_M23
+--operation mode is bidir
+
+GPIO_1[3] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[4] is GPIO_1[4] at PIN_M19
+--operation mode is bidir
+
+GPIO_1[4] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[5] is GPIO_1[5] at PIN_M20
+--operation mode is bidir
+
+GPIO_1[5] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[6] is GPIO_1[6] at PIN_N20
+--operation mode is bidir
+
+GPIO_1[6] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[7] is GPIO_1[7] at PIN_M21
+--operation mode is bidir
+
+GPIO_1[7] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[8] is GPIO_1[8] at PIN_M24
+--operation mode is bidir
+
+GPIO_1[8] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[9] is GPIO_1[9] at PIN_M25
+--operation mode is bidir
+
+GPIO_1[9] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[10] is GPIO_1[10] at PIN_N24
+--operation mode is bidir
+
+GPIO_1[10] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[11] is GPIO_1[11] at PIN_P24
+--operation mode is bidir
+
+GPIO_1[11] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[12] is GPIO_1[12] at PIN_R25
+--operation mode is bidir
+
+GPIO_1[12] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[13] is GPIO_1[13] at PIN_R24
+--operation mode is bidir
+
+GPIO_1[13] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[14] is GPIO_1[14] at PIN_R20
+--operation mode is bidir
+
+GPIO_1[14] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[15] is GPIO_1[15] at PIN_T22
+--operation mode is bidir
+
+GPIO_1[15] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[16] is GPIO_1[16] at PIN_T23
+--operation mode is bidir
+
+GPIO_1[16] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[17] is GPIO_1[17] at PIN_T24
+--operation mode is bidir
+
+GPIO_1[17] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[18] is GPIO_1[18] at PIN_T25
+--operation mode is bidir
+
+GPIO_1[18] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[19] is GPIO_1[19] at PIN_T18
+--operation mode is bidir
+
+GPIO_1[19] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[20] is GPIO_1[20] at PIN_T21
+--operation mode is bidir
+
+GPIO_1[20] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[21] is GPIO_1[21] at PIN_T20
+--operation mode is bidir
+
+GPIO_1[21] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[22] is GPIO_1[22] at PIN_U26
+--operation mode is bidir
+
+GPIO_1[22] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[23] is GPIO_1[23] at PIN_U25
+--operation mode is bidir
+
+GPIO_1[23] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[24] is GPIO_1[24] at PIN_U23
+--operation mode is bidir
+
+GPIO_1[24] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[25] is GPIO_1[25] at PIN_U24
+--operation mode is bidir
+
+GPIO_1[25] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[26] is GPIO_1[26] at PIN_R19
+--operation mode is bidir
+
+GPIO_1[26] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[27] is GPIO_1[27] at PIN_T19
+--operation mode is bidir
+
+GPIO_1[27] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[28] is GPIO_1[28] at PIN_U20
+--operation mode is bidir
+
+GPIO_1[28] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[29] is GPIO_1[29] at PIN_U21
+--operation mode is bidir
+
+GPIO_1[29] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[30] is GPIO_1[30] at PIN_V26
+--operation mode is bidir
+
+GPIO_1[30] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[31] is GPIO_1[31] at PIN_V25
+--operation mode is bidir
+
+GPIO_1[31] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[32] is GPIO_1[32] at PIN_V24
+--operation mode is bidir
+
+GPIO_1[32] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[33] is GPIO_1[33] at PIN_V23
+--operation mode is bidir
+
+GPIO_1[33] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[34] is GPIO_1[34] at PIN_W25
+--operation mode is bidir
+
+GPIO_1[34] = BIDIR(OPNDRN(VCC));
+
+
+--GPIO_1[35] is GPIO_1[35] at PIN_W23
+--operation mode is bidir
+
+GPIO_1[35] = BIDIR(OPNDRN(VCC));
+
+
+--A1L500 is rtl~200 at LCCOMB_X33_Y2_N10
+A1L500 = !A1L487;
+
+
+
+
+--C1L63 is Reset_Delay:r0|oRESET~clkctrl at CLKCTRL_G14
+C1L63 = cycloneii_clkctrl(.INCLK[0] = C1_oRESET) WITH (clock_type = "Global Clock");
+
+
+--A1L10 is CLOCK_50~clkctrl at CLKCTRL_G2
+A1L10 = cycloneii_clkctrl(.INCLK[0] = CLOCK_50) WITH (clock_type = "Global Clock");
+
+
+--E1L6 is VGA_Audio_PLL:p1|altpll:altpll_component|_clk2~clkctrl at CLKCTRL_G9
+E1L6 = cycloneii_clkctrl(.INCLK[0] = E1__clk2) WITH (clock_type = "Global Clock");
+
+
+--E1L2 is VGA_Audio_PLL:p1|altpll:altpll_component|_clk0~clkctrl at CLKCTRL_G11
+E1L2 = cycloneii_clkctrl(.INCLK[0] = E1__clk0) WITH (clock_type = "Global Clock");
+
+
+--E1L4 is VGA_Audio_PLL:p1|altpll:altpll_component|_clk1~clkctrl at CLKCTRL_G10
+E1L4 = cycloneii_clkctrl(.INCLK[0] = E1__clk1) WITH (clock_type = "Global Clock");
+
+

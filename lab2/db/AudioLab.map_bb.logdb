@@ -1,0 +1,7 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,filter_demo:inst4|magnitude:inst_mag|lpm_mult:Mult1|mult_l8t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,filter_demo:inst4|magnitude:inst_mag|lpm_mult:Mult0|mult_l8t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,filter_demo:inst4|HDLFFTDUT:inst_fftdut|HDL_FFT:u_HDL_FFT|Butterfly:u_Butterfly0|lpm_mult:Mult1|mult_h1t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,filter_demo:inst4|HDLFFTDUT:inst_fftdut|HDL_FFT:u_HDL_FFT|Butterfly:u_Butterfly0|lpm_mult:Mult0|mult_h1t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,filter_demo:inst4|HDLFFTDUT:inst_fftdut|HDL_FFT:u_HDL_FFT|Butterfly:u_Butterfly0|lpm_mult:Mult3|mult_h1t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,filter_demo:inst4|HDLFFTDUT:inst_fftdut|HDL_FFT:u_HDL_FFT|Butterfly:u_Butterfly0|lpm_mult:Mult2|mult_h1t:auto_generated|mac_out2,

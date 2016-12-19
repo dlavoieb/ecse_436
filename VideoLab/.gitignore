@@ -1,0 +1,9 @@
+db/
+incremental_db/
+talkback/
+greybox_tmp/
+
+*.bak
+*.done
+*.summary
+*.jdi
