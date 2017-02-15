@@ -1,4 +1,0 @@
-Warning (10268): Verilog HDL information at show_square.v(55): always construct contains both blocking and non-blocking assignments
-Info (10281): Verilog HDL Declaration information at show_square.v(24): object "red" differs only in case from object "RED" in the same scope
-Info (10281): Verilog HDL Declaration information at show_square.v(25): object "green" differs only in case from object "GREEN" in the same scope
-Info (10281): Verilog HDL Declaration information at show_square.v(26): object "blue" differs only in case from object "BLUE" in the same scope
